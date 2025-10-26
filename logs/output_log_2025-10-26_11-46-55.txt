@@ -1,0 +1,894 @@
+2025.10.26 11:46:57 Debug      -  Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+2025.10.26 11:46:57 Debug      -  Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+2025.10.26 11:46:57 Debug      -  initialized Steam connection
+2025.10.26 11:46:57 Debug      -  Using server environment: Release, bf0942f7
+2025.10.26 11:46:57 Debug      -  Launching with args: 5
+2025.10.26 11:46:57 Debug      -  Arg: C:\Program Files (x86)\Steam\steamapps\common\VRChat\VRChat.exe
+2025.10.26 11:46:57 Debug      -  Arg: --no-vr
+2025.10.26 11:46:57 Debug      -  Arg: --enable-debug-gui
+2025.10.26 11:46:57 Debug      -  Arg: --enable-udon-debug-logging
+2025.10.26 11:46:57 Debug      -  Arg: --startup-begin-ts=2261572789780
+2025.10.26 11:46:57 Debug      -  VR Disabled
+2025.10.26 11:46:57 Warning    -  OvrLipSync Awake: Queried SampleRate: 48000 BufferSize: 1024
+2025.10.26 11:46:57 Debug      -  LimitedConcurrencyLevelTaskScheduler created, threads: 1
+2025.10.26 11:46:57 Debug      -  LimitedConcurrencyLevelTaskScheduler created, threads: 1
+2025.10.26 11:46:57 Warning    -  NativeAppAPI.GetAnalyticsSessionId() called but no native app API implementation is available
+2025.10.26 11:46:57 Debug      -  VRC Analytics Initialized
+2025.10.26 11:46:57 Debug      -  Found 141 time zones, default: 'Central Standard Time', 24-hour clock: False
+2025.10.26 11:46:57 Debug      -  No local config found at 'C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\config.json'
+2025.10.26 11:46:57 Debug      -  No local config found at 'C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\null'
+2025.10.26 11:46:57 Debug      -  [AssetBundleDownloadManager] Using default cache directory.
+2025.10.26 11:46:57 Debug      -  [AssetBundleDownloadManager] Using default cache size: 30.00GB
+2025.10.26 11:46:57 Debug      -  [LOADER] Watching directory C:\Users\M3ST3\AppData\LocalLow\VRChat\VRChat\Avatars
+2025.10.26 11:46:58 Debug      -  [Behaviour] Registering Avatar Interaction
+2025.10.26 11:46:58 Debug      -  VRCNP: Server started
+2025.10.26 11:46:58 Debug      -  Subscription Set Up Transaction Callbacks for Steam AppID: 438100
+2025.10.26 11:46:58 Warning    -  <b>[SteamVR]</b> Not Initialized (109)
+2025.10.26 11:46:58 Warning    -  <b>[SteamVR]</b> Initialization failed. Please verify that you have SteamVR installed, your hmd is functioning, and OpenVR Loader is checked in the XR Plugin Management section of Project Settings.
+2025.10.26 11:46:58 Warning    -  <b>[SteamVR]</b> Not Initialized (109)
+2025.10.26 11:46:58 Warning    -  <b>[SteamVR]</b> Initialization failed. Please verify that you have SteamVR installed, your hmd is functioning, and OpenVR Loader is checked in the XR Plugin Management section of Project Settings.
+2025.10.26 11:46:58 Warning    -  <b>[SteamVR]</b> Not Initialized (109)
+2025.10.26 11:46:58 Warning    -  <b>[SteamVR]</b> Initialization failed. Please verify that you have SteamVR installed, your hmd is functioning, and OpenVR Loader is checked in the XR Plugin Management section of Project Settings.
+2025.10.26 11:46:58 Error      -  SteamVR instance or camera is null. Disabling culling fix.
+2025.10.26 11:46:58 Debug      -  [Behaviour] skipping analytic experiment fetch, not logged in yet
+2025.10.26 11:46:58 Debug      -  [Behaviour] waiting for UI Manager
+2025.10.26 11:46:58 Debug      -  [VRC Stacked Camera System] Created Stacked Camera : Cam_InternalUI
+2025.10.26 11:46:58 Debug      -  [VRC Stacked Camera System] Camera Stack has been initialized.
+2025.10.26 11:46:58 Debug      -  [UserInfoLogger] Environment Info: 
+    VRChat Build: 2025.3.4p1-1727-a6601220d0-Release
+    Store: Steam
+    Steam Beta Branch: default
+    Platform: standalonewindows
+    Device Model: GamingPC (CyberPowerPC)
+    Processor Type: Intel(R) Core(TM) Ultra 9 285K
+    System Memory Size: 64871MB
+    Operating System: Windows 11  (10.0.26200) 64bit
+    Graphics Device Name: NVIDIA GeForce RTX 5080
+    Graphics Device Version: Direct3D 11.0 [level 11.1]
+    Graphics Memory Size: 15889MB
+    Supports Audio: True
+    XR Device: None
+    HW Video Decoding: True
+    API Status: Available: ("pong")
+    CDN Status: Available: (pong)
+
+2025.10.26 11:46:58 Debug      -  [UserInfoLogger] User Settings Info:
+General Settings:
+    Clear cache on start: False
+    Show go button on load: False
+    Show community labs: False
+    Show community worlds in search: False
+    Hide notification photos: False
+    Selected network region: US_East
+    OSC enabled: False
+    AFK enabled: False
+Graphics Settings:
+    Quality: High
+    Antialiasing: x4
+    Near Clip Override: Off
+Input Settings:
+    Mouse sensitivity: 1
+    Inverted mouse: False
+    UI Haptics enabled: True
+    Invert Controller Vertical Look: False
+Audio Settings:
+    Legacy Talk toggle: True
+    Legacy Talk default on: True
+    Legacy Disable mic button: False
+    Mic Mode: Toggle
+    Mic Behavior On Join: DefaultOn
+    Mic level (VR): 0.8
+    Mic level (Desktop): 0.4
+    Noise suppression: False
+    Noise gate: 0.01
+UI Settings:
+    Show tooltips: True
+    Desktop reticle: True
+    Show social rank: True
+    Main Menu free placement: False
+    Nameplate display: Standard
+    QM Info: on
+    Fallback Icon: visible
+    Status mode: ShowOnMenu
+    Nameplate scale: 100%
+    Nameplate opacity: 80%
+Avatar Settings:
+    Fallback hidden: False
+    Maximum download size: 200 MB
+    Performance rating minimum to display: Poor
+    Allow avatar copying: False
+    Disable avatar cloning on enter world: True
+    Avatar interaction level: Friends
+    Avatar self-interaction: True
+Accessibility Settings:
+    Gesture bar enabled: False
+    Earmuff mode: False
+    Earmuff mode (avatars): True
+    Earmuff mode, Always show visual aid: True
+    Earmuff mode radius: 3
+    Earmuff mode falloff: 1
+    Earmuff mode reduced volume: 0.2
+    Chat bubble visibility: Everyone
+    Chat bubble scale: 1.5
+    Chat bubble opacity: 1
+    Chat bubble timeout: 30
+Comfort & Safety Settings:
+    Personal space: False
+    Third person rotation: False
+    Comfort turning: False
+    Locomotion method: Gamelike
+    Vive advanced: False
+    Streamer mode enabled: False
+    Limit particle systems: False
+    Safety level: Custom
+    Allow untrusted URLs: False
+    Ask to portal: True
+    Mirror resolution: Full
+    Portal Mode: PlaceManually
+
+2025.10.26 11:46:58 Debug      -  Including StyleResource:DefaultStyle
+2025.10.26 11:46:58 Error      -  StyleEngine: Missing resource reference:Atlas
+2025.10.26 11:46:58 Error      -  StyleEngine: Missing resource reference:Atlas
+2025.10.26 11:46:58 Debug      -  [SettingsManager] Graphics Quality set to: High
+2025.10.26 11:46:58 Debug      -  [SettingsManager] Lod Quality set to: High
+2025.10.26 11:46:58 Debug      -  [SettingsManager] Antialiasing set to: x4
+2025.10.26 11:46:58 Debug      -  [SettingsManager] Particle Physics Quality set to: High
+2025.10.26 11:46:58 Debug      -  [SettingsManager] Nameplate fallback icon visible set to: True
+2025.10.26 11:46:58 Debug      -  [SettingsManager] Finger walk mode (#axes) set to: 3
+2025.10.26 11:46:58 Debug      -  [Behaviour] showing disconnect reason
+2025.10.26 11:46:58 Debug      -  VRCInputProcessorTouch: can use Oculus Touch controller = False
+2025.10.26 11:46:58 Debug      -  Loading Preset TypeA
+2025.10.26 11:46:58 Debug      -  VRCInputProcessorOpenXR: can use OpenXR controller
+2025.10.26 11:46:58 Debug      -  Loading Preset TypeA
+2025.10.26 11:46:58 Debug      -  Loaded Input Binding[_OPENXR_GENERIC]: Custom
+2025.10.26 11:46:58 Warning    -  StyleEngine, Unable to find resource: images/background_layer_02_lines
+2025.10.26 11:46:58 Warning    -  StyleEngine, Unable to find resource: images/background_layer_03_dots
+2025.10.26 11:46:58 Warning    -  StyleEngine, Unable to find resource: images/icons/notification_friendrequest
+2025.10.26 11:46:58 Warning    -  StyleEngine, Unable to find resource: 
+2025.10.26 11:46:58 Warning    -  StyleEngine, Unable to find resource: 
+2025.10.26 11:46:58 Debug      -  Finished preloading styles
+2025.10.26 11:46:58 Debug      -  [Behaviour] Microphone device changing to 'System Default'
+2025.10.26 11:46:58 Debug      -  uSpeak: SetInputDevice 0 (4 total) 'Microphone (Virtual Desktop Audio)'
+2025.10.26 11:46:58 Debug      -  [Behaviour] Refreshing RemoteConfig
+2025.10.26 11:46:58 Debug      -  FetchConfig
+2025.10.26 11:46:58 Debug      -  [Behaviour] showing alert
+2025.10.26 11:46:58 Debug      -  finshed fetching and set config
+2025.10.26 11:46:58 Debug      -  [Behaviour] RemoteConfig refresh succeeded
+2025.10.26 11:46:58 Debug      -  [Behaviour] configuring network options
+2025.10.26 11:46:58 Debug      -  [Behaviour] Thread State: Dispatch=True/True
+2025.10.26 11:46:58 Debug      -  [SettingsManager] Current Language set to: en
+2025.10.26 11:46:58 Debug      -  [LOCALIZATION] Translations last updated at 09/03/2025 22:51:32
+2025.10.26 11:46:59 Debug      -  [EOSManager] EOS Initialized Successfully
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] [Boot] EOSSDK Version 1.17.1.3-44532354 booting at 2025-10-26T16:46:59.025Z using CSharp
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.6725.64bit, ClientId=xyza78910ITit2HAPSDOzpe9gf8y9lAY, ProductId=a4a57ff548934dbeba0cc7c62cdf9f34, SandboxId=198988a88fe34e3e91ed15f7c91a15b1, DeploymentId=76151011566a4757ae955b380b05c378, ProductName=VRChat, ProductVersion=w_2025.3.4p1-a6601220d0, IsServer=false, Flags=DisableOverlay]
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOSAnalytics] Start Session (User: ...)
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOSOverlay] Overlay will not load, because it was explicitly disabled when creating the platform
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+2025.10.26 11:46:59 Debug      -  [Behaviour] checking min client version
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOSAntiCheat] [AntiCheatClient] AddNotifyMessageToServer bound with NotificationId=[24]
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOSAntiCheat] [AntiCheatClient] EOS_AntiCheatClient_AddNotifyClientIntegrityViolated bound with NotificationId=[25]
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] Updating Platform SDK Config, Time: 0.002582
+2025.10.26 11:46:59 Debug      -  [Behaviour] authenticating
+2025.10.26 11:46:59 Debug      -  [Behaviour] Trying to login with vrchat...
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] SDK Config Platform Update Request Successful, Time: 0.215004
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOSAnalytics] EOS SDK Analytics disabled for route [1].
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] Updating Product SDK Config, Time: 0.229385
+2025.10.26 11:46:59 Debug      -  User Authenticated: mastermachines (usr_ec479b28-ab84-446a-ac5d-fd5733d6abdd)
+- hasEmail: True
+- hasBirthday: True
+- tos: 12
+- avatar: avtr_2489dabd-f7da-400f-9de5-4ddd4ee51196
+
+2025.10.26 11:46:59 Debug      -  [Purchasing] Initializing PurchasingManager
+2025.10.26 11:46:59 Error      -  [Purchasing] Failed to initialize PurchasingManager. Reason: 2 | Message: No builder or store found for the platform!
+2025.10.26 11:46:59 Debug      -  Checking For Active VRChat+ Subscription
+2025.10.26 11:46:59 Debug      -  Updating avatar cloning to 'False'
+2025.10.26 11:46:59 Debug      -  Notifications Cleared!
+2025.10.26 11:46:59 Debug      -  [Behaviour] running analytic experiment fetch (post first login)
+2025.10.26 11:46:59 Debug      -  [Behaviour] Ok
+2025.10.26 11:46:59 Debug      -  [Behaviour] Authenticated via vrchat
+2025.10.26 11:46:59 Debug      -  [Behaviour] checking for Verified account
+2025.10.26 11:46:59 Debug      -  [AssetBundleDownloadManager] Using default cache expiry delay: 30.00 days
+2025.10.26 11:46:59 Debug      -  [SettingsManager] Clear cache on start set to: False
+2025.10.26 11:46:59 Debug      -  [AssetBundleDownloadManager] Asset bundle cache cleared successfully (cutoff was 2592000).
+2025.10.26 11:46:59 Debug      -  [Behaviour] Using network server version: Release_1626
+2025.10.26 11:46:59 Debug      -  [Behaviour] Sending token from provider vrchat
+2025.10.26 11:46:59 Debug      -  [EOSManager] Attempting to login to EOS.
+2025.10.26 11:46:59 Debug      -  [Behaviour] Locating best region
+2025.10.26 11:46:59 Debug      -  [Behaviour] Using nameserver host: ns.photonengine.io
+2025.10.26 11:46:59 Debug      -  [Behaviour] checking for account info update
+2025.10.26 11:46:59 Debug      -  [Behaviour] checking terms of service
+2025.10.26 11:46:59 Debug      -  [Behaviour] TOS current version: 12, accepted: 12
+2025.10.26 11:46:59 Debug      -  [Behaviour] checking privacy policy
+2025.10.26 11:46:59 Debug      -  [Behaviour] Privacy Policy current version: 2, accepted: 2
+2025.10.26 11:46:59 Debug      -  [Behaviour] set connect error state
+2025.10.26 11:46:59 Debug      -  [Behaviour] checking for youtube-dl updates
+2025.10.26 11:46:59 Debug      -  [Behaviour] upgrade settings data
+2025.10.26 11:46:59 Debug      -  [Behaviour] final wait for analytic experiments
+2025.10.26 11:46:59 Debug      -  [Behaviour] Refreshing analytic experiments
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOSAnalytics] Start Session (User: ...)
+2025.10.26 11:46:59 Debug      -  [Behaviour] launching in normal manner
+2025.10.26 11:46:59 Debug      -  [Behaviour] Going to Home Location: wrld_da9f25e6-1b1e-485c-8995-e791a02e8014
+2025.10.26 11:46:59 Debug      -  Get VRChat Subscription Details! Subscription Id:None active:False desc:
+2025.10.26 11:46:59 Debug      -  [Behaviour] No Active Subscription detected
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] SDK Config Product Update Request Successful, Time: 0.443690
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] SDK Config Data - Watermark: 1237667838
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOS] ScheduleNextSDKConfigDataUpdate - Time: 0.443690, Update Interval: 351.087982
+2025.10.26 11:46:59 Debug      -  Websockets API connected successfully!
+2025.10.26 11:46:59 Debug      -  [Behaviour] OnRegionListReceived
+2025.10.26 11:46:59 Debug      -  [Behaviour] OnRegionListReceived
+2025.10.26 11:46:59 Debug      -  BundlesManager: Available Bundles count: 1
+2025.10.26 11:46:59 Debug      -  [EOSManager] Fetched the UserInfo token successfully.
+2025.10.26 11:46:59 Debug      -  [EOSManager] [Info][LogEOSMessaging] Attempting connection to Stomp. LocalUserId=[000...576] Url=[<Redacted>]
+2025.10.26 11:46:59 Debug      -  [EOSManager] User Login Status changed to Logged In: 0002878765254f58af76465b88f07576
+2025.10.26 11:46:59 Debug      -  [EOSManager] EOS Login Succeeded. UserId: 0002878765254f58af76465b88f07576
+2025.10.26 11:46:59 Debug      -  [EOSManager] EOS LoginUser took '0.60'.
+2025.10.26 11:47:00 Debug      -  [Behaviour] Going to current users Home world
+2025.10.26 11:47:00 Debug      -  [Behaviour] Destination requested: wrld_da9f25e6-1b1e-485c-8995-e791a02e8014
+2025.10.26 11:47:00 Debug      -  [Behaviour] Fetching world information for wrld_da9f25e6-1b1e-485c-8995-e791a02e8014
+2025.10.26 11:47:00 Debug      -  Fetched local user permissions
+2025.10.26 11:47:00 Debug      -  [Behaviour] No destination instance provided, will need to fetch: wrld_da9f25e6-1b1e-485c-8995-e791a02e8014
+2025.10.26 11:47:00 Debug      -  [EOSManager] [Info][LogEOSMessaging] Successfully connected to Stomp. LocalUserId=[000...576]
+2025.10.26 11:47:00 Debug      -  [SettingsManager] Master volume set to: 100.00%
+2025.10.26 11:47:00 Debug      -  [SettingsManager] UI volume set to: 100.00%
+2025.10.26 11:47:00 Debug      -  [SettingsManager] World volume set to: 40.00%
+2025.10.26 11:47:00 Debug      -  [SettingsManager] Avatar volume set to: 50.00%
+2025.10.26 11:47:00 Debug      -  [SettingsManager] Voice volume set to: 100.00%
+2025.10.26 11:47:00 Debug      -  [SettingsManager] Mic activation threshold set to: 1.00%
+2025.10.26 11:47:00 Debug      -  [SettingsManager] Props volume set to: 100.00%
+2025.10.26 11:47:00 Debug      -  [SettingsManager] Mic volume set to: 40.00%
+2025.10.26 11:47:00 Warning    -  [Inventory Manager]: No handler for item type warpeffect
+2025.10.26 11:47:00 Error      -  [Inventory Manager]: Failed to construct item invt_022f4c96-c803-46bc-87da-5ec650af4994
+2025.10.26 11:47:00 Debug      -  [Behaviour] Got best network region: US East
+2025.10.26 11:47:00 Debug      -  [Behaviour] Destination fetching: wrld_da9f25e6-1b1e-485c-8995-e791a02e8014:25312~private(usr_ec479b28-ab84-446a-ac5d-fd5733d6abdd)~region(use)
+2025.10.26 11:47:00 Debug      -  [Behaviour] Destination set: wrld_da9f25e6-1b1e-485c-8995-e791a02e8014:25312~private(usr_ec479b28-ab84-446a-ac5d-fd5733d6abdd)~region(use)
+2025.10.26 11:47:00 Debug      -  [Behaviour] Can enter world without flow reset, skipping reset
+2025.10.26 11:47:00 Debug      -  [Behaviour] entering main loop
+2025.10.26 11:47:00 Debug      -  [Behaviour] Beginning room transition
+2025.10.26 11:47:00 Debug      -  [AssetBundleDownloadManager] Verifying bundle load with CRC ****AA80
+2025.10.26 11:47:00 Debug      -  [AssetBundleDownloadManager] Starting download of 239 MB, 0 still queued.
+2025.10.26 11:47:01 Debug      -  [Behaviour] Resetting statistics
+2025.10.26 11:47:01 Debug      -  [Behaviour] Disabling physics
+2025.10.26 11:47:01 Debug      -  [Behaviour] Serialization History Length defaulting to 120
+2025.10.26 11:47:01 Debug      -  [Behaviour] Transitioning to room
+2025.10.26 11:47:01 Debug      -  [Behaviour] Invoking 25 listeners for ExitWorld event
+2025.10.26 11:47:01 Debug      -  [Image Download] Clearing download queue
+2025.10.26 11:47:01 Debug      -  [String Download] Clearing string download queue
+2025.10.26 11:47:01 Debug      -  Update rate will vary between 50 and 1000 milliseconds.
+2025.10.26 11:47:01 Debug      -  Soft data rate ceiling will be 18432 bps
+2025.10.26 11:47:01 Debug      -  [Behaviour] Unloading scenes
+2025.10.26 11:47:01 Debug      -  Memory Usage: after world unload [none]
+- System.GC.GetTotalMemory: 85.38 MB
+- Profiler.GetMonoUsed/HeapSizeLong: 85.38 MB / 105.49 MB
+- Profiler.GetTotalAllocated/Reserved/UnusedMemoryLong: 1.00 GB / 1.20 GB / 195.00 MB
+- SystemInfo.graphicsMemorySize: 15889
+- SystemInfo.systemMemorySize:64871
+
+2025.10.26 11:47:01 Warning    -  [AssetBundleDownloadManager] Not disposing 100 (0) because it is still referenced.
+2025.10.26 11:47:01 Warning    -  [AssetBundleDownloadManager] Not disposing 100 (0) because it is still referenced.
+2025.10.26 11:47:01 Debug      -  [Behaviour] Switching to network region us (current state: ConnectedToNameServer)
+2025.10.26 11:47:01 Debug      -  [Behaviour] Requesting join token
+2025.10.26 11:47:01 Debug      -  [Behaviour] Connecting to realtime network
+2025.10.26 11:47:01 Debug      -  [EOSManager] [Info][LogEOSAntiCheat] [AntiCheatClient] [BeginSession-003] Mode: 1
+2025.10.26 11:47:01 Debug      -  No local config found at 'C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\worldconfig\wrld_da9f25e6-1b1e-485c-8995-e791a02e8014'
+2025.10.26 11:47:01 Debug      -  [Behaviour] Preparing assets...
+2025.10.26 11:47:01 Debug      -  [EOSManager] AntiCheat Session Begin: Success
+2025.10.26 11:47:01 Debug      -  [Behaviour] OnCustomAuthenticationResponse
+2025.10.26 11:47:01 Debug      -  [Behaviour] OnConnected
+2025.10.26 11:47:01 Debug      -  [Behaviour] OnConnectedToMaster
+2025.10.26 11:47:01 Debug      -  [Behaviour] Connected to master in us
+2025.10.26 11:47:01 Debug      -  [AssetBundleDownloadManager] [100] Unpacking World (wrld_da9f25e6-1b1e-485c-8995-e791a02e8014)
+2025.10.26 11:47:01 Debug      -  [Behaviour] Entering world
+2025.10.26 11:47:01 Debug      -  [Behaviour] Entering Room: Thunder Tavern
+2025.10.26 11:47:01 Debug      -  [Behaviour] Joining wrld_da9f25e6-1b1e-485c-8995-e791a02e8014:25312~private(usr_ec479b28-ab84-446a-ac5d-fd5733d6abdd)~region(use)
+2025.10.26 11:47:01 Debug      -  [Behaviour] Joining or Creating Room: Thunder Tavern
+2025.10.26 11:47:01 Debug      -  [Behaviour] Successfully joined room
+2025.10.26 11:47:01 Debug      -  [Behaviour] Spent 0.0007829666s entering world.
+2025.10.26 11:47:01 Debug      -  [Behaviour] Waiting to enter network room.
+2025.10.26 11:47:01 Debug      -  [Behaviour] Destroying VRC_OBJECTS
+2025.10.26 11:47:01 Debug      -  [Behaviour] Configuring Udon
+2025.10.26 11:47:02 Debug      -  Loading asset bundle: Main_real
+2025.10.26 11:47:02 Debug      -  [Behaviour] Spent 0.6033301s waiting to enter room.
+2025.10.26 11:47:02 Debug      -  [Behaviour] Waiting to discover master client.
+2025.10.26 11:47:02 Debug      -  [Behaviour] Spent 5.722046E-06s waiting to discover master client.
+2025.10.26 11:47:02 Debug      -  [Behaviour] Waiting for network limits.
+2025.10.26 11:47:05 Warning    -  There can be only one active Event System.
+2025.10.26 11:47:05 Debug      -  UdonManager.OnSceneLoaded took '0.399'
+2025.10.26 11:47:05 Warning    -  Recovered 1827 Network IDs from VRCWorld
+2025.10.26 11:47:05 Debug      -  Loaded asset bundle: Main_real
+2025.10.26 11:47:05 Debug      -  Signature verification result 146+/0-/1076=
+2025.10.26 11:47:05 Debug      -  [Behaviour] Room instantiate took 3.989415s
+2025.10.26 11:47:06 Debug      -  [Behaviour] Instantiating VRC_OBJECTS
+2025.10.26 11:47:06 Debug      -  [Behaviour] Hard max is 80
+2025.10.26 11:47:06 Debug      -  [Behaviour] Spent 0.001887321s initializing VRC Objects
+2025.10.26 11:47:06 Debug      -  [Behaviour] Processing scene objects
+2025.10.26 11:47:06 Debug      -  <color=yellow>Loading scene's render settings.</color>
+2025.10.26 11:47:06 Debug      -  Creating Scene Dynamic Bone Controller.
+2025.10.26 11:47:06 Debug      -  [Behaviour] Spent 0.1385117s processing scene objects.
+2025.10.26 11:47:06 Debug      -  [Behaviour] Fixing materials
+2025.10.26 11:47:06 Debug      -  [Behaviour] Attaching CallbackHandlers
+2025.10.26 11:47:06 Debug      -  [Behaviour] Spent 0.004022598s attaching initial callback handlers.
+2025.10.26 11:47:06 Debug      -  [Behaviour] Clamp audio sources
+2025.10.26 11:47:06 Debug      -  [Behaviour] Finalizing scene
+2025.10.26 11:47:06 Debug      -  [Behaviour] Spent 0.003279686s finalizing scene.
+2025.10.26 11:47:06 Debug      -  [Behaviour] Warming shaders for world mirrors
+2025.10.26 11:47:10 Debug      -  [Behaviour] Spent 8.18663s waiting for network limits.
+2025.10.26 11:47:10 Debug      -  [Behaviour] Waiting for core objects to ready
+2025.10.26 11:47:10 Debug      -  [Behaviour] Configuring Udon
+2025.10.26 11:47:10 Debug      -  [Behaviour] Preloaded 0 Prefabs: 
+
+2025.10.26 11:47:10 Debug      -  [Behaviour] Spawning players
+2025.10.26 11:47:10 Debug      -  [Behaviour] Microphone device changing to 'System Default'
+2025.10.26 11:47:10 Debug      -  uSpeak: SetInputDevice 0 (4 total) 'Microphone (Virtual Desktop Audio)'
+2025.10.26 11:47:10 Debug      -  [Behaviour] Finished spawning players.
+2025.10.26 11:47:11 Debug      -  [AVProMovieCapture] Init version: 5.0.5 (plugin v5.0.0f1-ultra) with GPU NVIDIA GeForce RTX 5080 Direct3D 11.0 [level 11.1] OS: Windows 11  (10.0.26200) 64bit
+2025.10.26 11:47:11 Debug      -  [Behaviour] Waiting for Properties for VRCPlayer[Local] 96169896 1
+2025.10.26 11:47:11 Debug      -  [Behaviour] CacheComponents: ParticleSystems 1, AudioSources 0
+2025.10.26 11:47:11 Debug      -  Found SDK3 avatar descriptor.
+2025.10.26 11:47:11 Debug      -  [Behaviour] Using default gesture mask (hands)
+2025.10.26 11:47:11 Warning    -  Recovered 0 Network IDs from Avatar
+2025.10.26 11:47:11 Warning    -  FBIK chain length is 0, can't initiate solver.
+2025.10.26 11:47:11 Debug      -  [Behaviour] Avatar is Ready, Initializing
+2025.10.26 11:47:11 Debug      -  [Behaviour] uSpeak [1][-645831174]: InitializeSettings (owner ID 100002): codec 3, Opus48k, BitRate_24K, FrameDuration_20ms
+2025.10.26 11:47:11 Debug      -  [Behaviour] uSpeak [1][-645831156]: UpdateSettings locally, sending to remotes: codec 3, Opus48k, BitRate_24K, FrameDuration_20ms
+2025.10.26 11:47:11 Debug      -  Microphones installed (4 total)
+2025.10.26 11:47:11 Debug      -  -- [0] device name = 'Microphone (Virtual Desktop Audio)' min/max freq = 48000 / 48000
+2025.10.26 11:47:11 Debug      -  -- [1] device name = 'Microphone (HD Pro Webcam C920)' min/max freq = 16000 / 16000
+2025.10.26 11:47:11 Debug      -  -- [2] device name = 'Microphone (USB Audio Device)' min/max freq = 48000 / 48000
+2025.10.26 11:47:11 Debug      -  -- [3] device name = 'Microphone (Steam Streaming Microphone)' min/max freq = 44100 / 44100
+2025.10.26 11:47:11 Debug      -  [Behaviour] uSpeak [1][-645831154]: Stop Microphone: 
+2025.10.26 11:47:11 Debug      -  [Behaviour] uSpeak [1][-645831154]: Start Microphone: Microphone (Virtual Desktop Audio)
+2025.10.26 11:47:11 Debug      -  [Behaviour] uSpeak [1][-645831154]: Using UnityMicrophone
+2025.10.26 11:47:11 Debug      -  [Behaviour] Configuring local player VRCPlayer[Local] 96169896 1
+2025.10.26 11:47:11 Warning    -  UnityPackage: Model failed validation, returning anyway: Error writing the following fields: unitySortNumber, assetVersion
+2025.10.26 11:47:11 Warning    -  UnityPackage: Model failed validation, returning anyway: Error writing the following fields: unitySortNumber, assetVersion
+2025.10.26 11:47:11 Warning    -  UnityPackage: Model failed validation, returning anyway: Error writing the following fields: unitySortNumber, assetVersion
+2025.10.26 11:47:11 Debug      -  [Behaviour] Loading avatar for mastermachines
+2025.10.26 11:47:11 Debug      -  [Behaviour] Initialized player mastermachines
+2025.10.26 11:47:11 Debug      -  [Behaviour] Switching mastermachines to avatar ReadyPlayerMe Avatar‚ 2025-08-01‚ 18˸25˸41
+2025.10.26 11:47:11 Debug      -  Switching avatar to ReadyPlayerMe Avatar‚ 2025-08-01‚ 18˸25˸41
+2025.10.26 11:47:11 Debug      -  Measure Human Avatar Avatar isRemeasure:False
+2025.10.26 11:47:11 Debug      -  [Behaviour] eyeToNeck:(0.00, 0.08, 0.12) scaled:(0.00, 0.07, 0.11)
+2025.10.26 11:47:11 Debug      -  [Behaviour] Initialize Limb Avatar VRCPlayer[Local] 1 True 1
+2025.10.26 11:47:11 Debug      -  [Behaviour] Waiting for player persistence objects to be ready
+2025.10.26 11:47:11 Debug      -  [Behaviour] Player persistence object initialization complete
+2025.10.26 11:47:11 Debug      -  [Behaviour] Collecting metadata for 1 player objects.
+2025.10.26 11:47:11 Debug      -  [Behaviour] Collecting metadata.
+2025.10.26 11:47:11 Debug      -  [Behaviour] Sending 179 bytes of instance metadata over 1 bunches.
+2025.10.26 11:47:11 Debug      -  [Behaviour] Waiting for players to initialize
+2025.10.26 11:47:11 Debug      -  [Behaviour] Player initialization complete.
+2025.10.26 11:47:11 Debug      -  [Behaviour] Readying scene objects
+2025.10.26 11:47:11 Debug      -  [Behaviour] Waiting for players to network ready
+2025.10.26 11:47:11 Debug      -  [INFO][<color=#008000>TLP</color>][-2146483647 TLP_Logger/TlpLogger] [<color=#008080>f=646(0.000ms) elapsed=0.0000s time=5.1751s dt(real)=0.000ms </color>][<color=#804040>Local owner mastermachines(1)  is Master</color>] Starting at time 5.175056s.
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#008000>ALWAYS</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Starting TV (v3.0.0-beta.29.3)
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Enabling TV
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Enabling owner via Network call
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Expanding event register to 1: Adding Playlist
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Expanding event register to 2: Adding MediaControls V2 (Monochrome)
+2025.10.26 11:47:11 Debug      -  OnBoardGameModeChanged call  5
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Expanding event register to 3: Adding AudioAdapter
+2025.10.26 11:47:11 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Expanding event register to 4: Adding Queue
+2025.10.26 11:47:11 Debug      -  Initialized 37 roulette numbers
+2025.10.26 11:47:11 Debug      -  Initialized 37 roulette numbers
+2025.10.26 11:47:12 Debug      -  [AssetBundleDownloadManager] Starting download of 1 MB, 0 still queued.
+2025.10.26 11:47:12 Debug      -  [Behaviour] Skipping registration of a video player on 'Best' with the VideoPlayerOverseer as automatic resync is disabled.
+2025.10.26 11:47:12 Debug      -  [Behaviour] Skipping registration of a video player on 'Compat' with the VideoPlayerOverseer as automatic resync is disabled.
+2025.10.26 11:47:12 Debug      -  [Behaviour] Skipping registration of a video player on 'UnityVideo' with the VideoPlayerOverseer as automatic resync is disabled.
+2025.10.26 11:47:12 Debug      -  [Behaviour] Executing Buffered Events
+2025.10.26 11:47:12 Debug      -  [AVProVideo] Initialising AVPro Video v2.8.5 (native plugin v2.8.5f1-ultra) on NVIDIA GeForce RTX 5080/Direct3D 11.0 [level 11.1] (MT False) on WindowsPlayer
+2025.10.26 11:47:12 Error      -  [AVProVideo] No MediaReference specified
+2025.10.26 11:47:12 Error      -  [AVProVideo] No file path specified
+2025.10.26 11:47:12 Error      -  [AVProVideo] No MediaReference specified
+2025.10.26 11:47:12 Error      -  [AVProVideo] No file path specified
+2025.10.26 11:47:12 Debug      -  [AssetBundleDownloadManager] Download for avatar (Worn:1 Friend:0 Shown:0 Near:0) (1.5 MB) started 0 seconds and completed 0 seconds after queueing.
+2025.10.26 11:47:12 Debug      -  [Behaviour] OnPlayerJoinComplete mastermachines
+2025.10.26 11:47:12 Debug      -  [String Download] Attempting to load String from URL 'https://gist.githubusercontent.com/Master-Machines/413db9a671e7b705b6407f9cf873625e/raw/'
+2025.10.26 11:47:12 Debug      -  [Image Download] Attempting to load image from URL 'https://master-machines.github.io/thunder-tavern-images/boardgames/pmong4.jpeg'
+2025.10.26 11:47:12 Debug      -  [GC] Memory Usage: Before Allocation
+- System.GC.GetTotalMemory: 310.86 MB
+- Profiler.GetMonoUsed/HeapSizeLong: 310.86 MB / 316.49 MB
+- Profiler.GetTotalAllocated/Reserved/UnusedMemoryLong: 1.55 GB / 2.06 GB / 520.66 MB
+- SystemInfo.graphicsMemorySize: 15889
+- SystemInfo.systemMemorySize:64871
+
+2025.10.26 11:47:12 Debug      -  [GC] Ensuring the heap is at least 512MB by allocating 202MB.
+2025.10.26 11:47:12 Debug      -  [GC] Memory Usage: After Allocation
+- System.GC.GetTotalMemory: 557.41 MB
+- Profiler.GetMonoUsed/HeapSizeLong: 557.41 MB / 572.49 MB
+- Profiler.GetTotalAllocated/Reserved/UnusedMemoryLong: 1.55 GB / 2.06 GB / 519.87 MB
+- SystemInfo.graphicsMemorySize: 15889
+- SystemInfo.systemMemorySize:64871
+
+2025.10.26 11:47:12 Debug      -  [GC] Memory Usage: After Collection
+- System.GC.GetTotalMemory: 285.77 MB
+- Profiler.GetMonoUsed/HeapSizeLong: 285.77 MB / 572.49 MB
+- Profiler.GetTotalAllocated/Reserved/UnusedMemoryLong: 1.55 GB / 2.06 GB / 520.48 MB
+- SystemInfo.graphicsMemorySize: 15889
+- SystemInfo.systemMemorySize:64871
+
+2025.10.26 11:47:12 Debug      -  [Behaviour] Hiding overlay
+2025.10.26 11:47:12 Debug      -  [Behaviour] Lifting black fade
+2025.10.26 11:47:12 Debug      -  [Behaviour] I am MASTER
+Actor Nr: 1
+2025.10.26 11:47:12 Debug      -  [Behaviour] All 1 bunches for Player Data Object [1] collected, now restoring.
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] _InternalSyncDataRequest called: (False || True)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Readying up data for Owner
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Auth check for ReadyUp
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvAuthChange to 4 listeners
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] AutoOwnership from internalReadyUp()
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] IsOwnerValid(mastermachines): True && True && (True || True) && False
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] AutoOwnershipAvailable(mastermachines): True && False && True && True && (True || False)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Preparing implicit TV autoplay media: 
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] TV is now ready
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvReady to 4 listeners
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Updating priority for Playlist
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] No priority change required. Skipping
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines super authorized? True
+IsFirstMaster True
+IsInstanceOwner True
+Is the TV not syncing to the owner? False
+Is the user implicitly a superuser? True
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Updated to 1 entries. Current entry is -1
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] New URL - https://www.youtube.com/watch?v=pMgHX2dhVlE | Title 'Shipping Up To Boston - Dropkick Murpys'
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh triggered for 0 seconds from now, from source: _ChangeMedia
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh media via delay
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] New URL(s) detected.
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] [Compat] loading URL by user 'mastermachines': https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] useAlt False hasAlt False hasMain True
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Keys: v
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Values: pMgHX2dhVlE
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Change info loaded: retry=2, live=False
+2025.10.26 11:47:12 Debug      -  [Video Playback] Attempting to resolve URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE'
+2025.10.26 11:47:12 Debug      -  NativeProcess.Start: started process id [29224]: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_URL to 4 listeners
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvMediaChange to 4 listeners
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoading to 4 listeners
+2025.10.26 11:47:12 Debug      -  [AssetBundleDownloadManager] [101] Unpacking Avatar (ReadyPlayerMe Avatar‚ 2025-08-01‚ 18˸25˸41 by Wolf of Estland)
+2025.10.26 11:47:12 Debug      -  [Behaviour] Finishing room transition.
+2025.10.26 11:47:12 Debug      -  [Behaviour] Invoking 27 listeners for EnterWorld event
+2025.10.26 11:47:12 Debug      -  Memory Usage: after world loaded [wrld_da9f25e6-1b1e-485c-8995-e791a02e8014]
+- System.GC.GetTotalMemory: 291.34 MB
+- Profiler.GetMonoUsed/HeapSizeLong: 291.34 MB / 572.49 MB
+- Profiler.GetTotalAllocated/Reserved/UnusedMemoryLong: 1.56 GB / 2.06 GB / 508.18 MB
+- SystemInfo.graphicsMemorySize: 15889
+- SystemInfo.systemMemorySize:64871
+
+2025.10.26 11:47:12 Debug      -  [Behaviour] Finished entering world.
+2025.10.26 11:47:12 Debug      -  [Behaviour] Enabling physics
+2025.10.26 11:47:12 Debug      -  [Behaviour] World download took 531.7ms
+2025.10.26 11:47:12 Debug      -  [Behaviour] Spent 0.0ms waiting for GO
+2025.10.26 11:47:12 Debug      -  [Behaviour] World loading took 10,596.1ms
+2025.10.26 11:47:12 Debug      -  [Behaviour] Granular load times:
+{ 'total': 10.59612,
+  'preconfiguration': 0.062,
+  'instantiateScene': 3.994,
+  'configureCoreObjects': 0.017,
+  'processSceneObjects': 0.139,
+  'fixMaterials': 0.038,
+  'attachCallbackHandlers': 0.005,
+  'clampAudioSources': 0.038,
+  'finalizeScene': 0.017,
+  'WarmShaders': 0.007,
+  'rpcManager': 0.166,
+  'enterWorld': 4.312,
+  'readyCoreObjects': 0.015,
+  'udonBlacklist': 0.008,
+  'preloadPrefabs': 0,
+  'collectWorldMetadata': 0,
+  'spawnPlayers': 0.021,
+  'onLoadingSceneActive': 0,
+  'processTasksBeforeWorldEnter': 0.904,
+  'waitForPPOReady': 0.044,
+  'collectPlayerMetadata': 0.001,
+  'collectNetworkCallingMetadata': 0.002,
+  'sendInstanceMetadata': 0.002,
+  'requestBufferedEvents': 0.048,
+  'waitForPlayerInitialize': 0.017,
+  'readySceneObjects': 0.096,
+  'waitForPlayerData': 0.116,
+  'executeBufferedEvents': 0.121,
+  'ensureHeapSize': 0.235,
+  'uimanagerInit': 0.137,
+  'finish': 0.032,
+}
+2025.10.26 11:47:12 Debug      -  [Behaviour] OnPlayerJoined mastermachines (usr_ec479b28-ab84-446a-ac5d-fd5733d6abdd)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	1.00000	0.00000	1.00000
+0.35000	1.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Texture updating to 1024x512 (2)
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:12 Warning    -  [Behaviour] Serialization failed for MelonGame
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] All good
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Sync delivered.
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _ManagerReady to 4 listeners
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] New URL - https://www.youtube.com/watch?v=pMgHX2dhVlE | Title 'Shipping Up To Boston - Dropkick Murpys'
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh triggered for 0 seconds from now, from source: _ChangeMedia
+2025.10.26 11:47:12 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>PlaylistUI (Playlist)</color>] Updating view to index 122
+2025.10.26 11:47:12 Debug      -  [Behaviour] Initialized PlayerAPI "mastermachines" is local
+2025.10.26 11:47:12 Debug      -  [PermissionsManager] Permissions list loaded successfully. Local player role: 4 is mod? True
+2025.10.26 11:47:12 Debug      -  [Behaviour] Restored player 1
+2025.10.26 11:47:13 Debug      -  [RemotePosters] Image loaded: 15999642 bytes.
+2025.10.26 11:47:13 Debug      -  [Behaviour] CacheComponents: ParticleSystems 0, AudioSources 0
+2025.10.26 11:47:13 Debug      -  Found SDK3 avatar descriptor.
+2025.10.26 11:47:13 Debug      -  [Behaviour] Using default gesture mask (hands)
+2025.10.26 11:47:13 Debug      -  [Behaviour] Using default fx mask (all muscles disabled, all transforms enabled)
+2025.10.26 11:47:13 Warning    -  Recovered 0 Network IDs from Avatar
+2025.10.26 11:47:13 Debug      -  Loading Avatar Data:avtr_2489dabd-f7da-400f-9de5-4ddd4ee51196
+2025.10.26 11:47:13 Debug      -  [Behaviour] Avatar is Ready, Initializing
+2025.10.26 11:47:13 Debug      -  Measure Human Avatar Avatar isRemeasure:False
+2025.10.26 11:47:13 Debug      -  [Behaviour] eyeToNeck:(0.00, 0.08, 0.09) scaled:(0.00, 0.08, 0.09)
+2025.10.26 11:47:13 Debug      -  [Behaviour] Initialize ThreePoint Avatar VRCPlayer[Local] 1 True 8
+2025.10.26 11:47:17 Debug      -  [Image Download] Attempting to load image from URL 'https://master-machines.github.io/thunder-tavern-images/boardgames/pmong1.jpeg'
+2025.10.26 11:47:17 Debug      -  [String Download] Attempting to load String from URL 'https://gist.githubusercontent.com/Master-Machines/7093f6da70d6f1c2e33878d697864e99/raw/'
+2025.10.26 11:47:17 Debug      -  NativeProcess.HasExited: process exited with code 0, took 5043 ms. Command line: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:17 Debug      -  [Video Playback] URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE' resolved to 'https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518836/ei/lFD-aJm1KK2Ey_sPxom-6QM/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/34/met/1761497236,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsrnek/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5S7y9KLSvwQPaFNNkJ1ZGZpV2KkOZokjotVE8WjY35EK0b50Mymp4FkkqSbdPo3RH4A5hN4i6Pg/spc/6b0G_GKLT-jGXbdDgv9Gy3D1OHq6nyIm4Zgnn_NfLppdpGIaT3-k_Ah4ZHpqp-P10eI3b67_Aelc3-JpHnjfN-ew/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgAaH-h9jj07Iq59ruUztS7-An7zCdKhKe79XQxkrcNLgCIQC31urc3TQlLh_okXV8LEYm9LEnnWIQdaptJzYG5G46IQ%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRAIgDiDxE63ruZ0KSO_PgzRuifMbl2LQGHNeoIveo2c7T0oCIEsizM9r5ZrILtke2VJz5otdRHSQLcdGU434z2Am6T17/playlist/index.m3u8'
+2025.10.26 11:47:17 Debug      -  [AVProVideo] Opening https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518836/ei/lFD-aJm1KK2Ey_sPxom-6QM/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/34/met/1761497236,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsrnek/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5S7y9KLSvwQPaFNNkJ1ZGZpV2KkOZokjotVE8WjY35EK0b50Mymp4FkkqSbdPo3RH4A5hN4i6Pg/spc/6b0G_GKLT-jGXbdDgv9Gy3D1OHq6nyIm4Zgnn_NfLppdpGIaT3-k_Ah4ZHpqp-P10eI3b67_Aelc3-JpHnjfN-ew/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgAaH-h9jj07Iq59ruUztS7-An7zCdKhKe79XQxkrcNLgCIQC31urc3TQlLh_okXV8LEYm9LEnnWIQdaptJzYG5G46IQ%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRAIgDiDxE63ruZ0KSO_PgzRuifMbl2LQGHNeoIveo2c7T0oCIEsizM9r5ZrILtke2VJz5otdRHSQLcdGU434z2Am6T17/playlist/index.m3u8 (offset 0) with API MediaFoundation
+2025.10.26 11:47:17 Debug      -  [RemotePosters] Image loaded: 16777215 bytes.
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh media via delay
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines super authorized? True
+IsFirstMaster True
+IsInstanceOwner True
+Is the TV not syncing to the owner? False
+Is the user implicitly a superuser? True
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] [Compat] loading URL by user 'mastermachines': https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] useAlt False hasAlt False hasMain True
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Keys: v
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Values: pMgHX2dhVlE
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Change info loaded: retry=2, live=False
+2025.10.26 11:47:18 Debug      -  [Video Playback] Attempting to resolve URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE'
+2025.10.26 11:47:18 Debug      -  NativeProcess.Start: started process id [31264]: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_URL to 4 listeners
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvMediaChange to 4 listeners
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoading to 4 listeners
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	1.00000	0.00000	1.00000
+0.35000	1.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:18 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:19 Debug      -  [AVProVideo] Using playback path: MF-MediaEngine-Hardware (1920x1080@0.00)
+2025.10.26 11:47:19 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Media preparing via built-in OnVideoReady.
+2025.10.26 11:47:19 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] Allowing video to buffer for 1 seconds.
+2025.10.26 11:47:19 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Params set after video is ready
+2025.10.26 11:47:19 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Media Ready info loaded: start=0, end=153.6, t=0, loop=0, 3D=0, 3D[Full]=False
+2025.10.26 11:47:19 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ccaa>VPManager (Simple (ProTV)/Compat)</color>] Activated
+2025.10.26 11:47:19 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] [Compat] (mastermachines) Now Playing: https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:19 Debug      -  [AVProVideo] Texture size changed: 720 X 720
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] Buffering complete.
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoadingEnd to 4 listeners
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_URL to 4 listeners
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvMediaReady to 4 listeners
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#55ccaa>AudioAdapter (Simple (ProTV)/AudioAdapter)</color>] Switching to AVProNonLL AudioLink
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Media starting playing.
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvPlay to 4 listeners
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvPlaybackStart to 4 listeners
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Texture updating to 720x720 (1)
+2025.10.26 11:47:20 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:22 Debug      -  [Image Download] Attempting to load image from URL 'https://master-machines.github.io/thunder-tavern-images/boardgames/pmong3.png'
+2025.10.26 11:47:22 Debug      -  [String Download] Attempting to load String from URL 'https://gist.githubusercontent.com/Master-Machines/d3114ac2ac1d137d8e4483f3afc2c81d/raw/'
+2025.10.26 11:47:22 Debug      -  [RemotePosters] Image loaded: 16777215 bytes.
+2025.10.26 11:47:23 Debug      -  NativeProcess.HasExited: process exited with code 0, took 4840 ms. Command line: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:23 Debug      -  [Video Playback] URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE' resolved to 'https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518842/ei/mlD-aMPiII_Ey_sPiJzvyQs/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/15/met/1761497242,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsknes/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5Q2HlsNbhN1L7K4Zuuui4627qpjIzSnLOJkgI_UFrULecfO_6_Z8Z3fo9SqxIgyybZfviluM1qS/spc/6b0G_KlCRzK2KPhiPQF06sLfPlmBN9bbk3_cetIquiyFZvpA4q6on_MZ9QpOiSFrsh4k4WWRrWKYpD41oXtFQUzX/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgXQnW-jdLNb29x7iGjPooJAZa0CA9cTLZuRaghnlbdEsCIQDLcPwbIsgWnvNHbnzayBQlSdPwawiiGUk_w8SLtq_hPA%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAJpdfbd744_KESYnE9-wr_l45In-Bu36IwN1UG5Tb5RaAiEAkzZbzFflkvb8y7LX5TjI1xk6nwetZlvX8oULBHnZXwQ%3D/playlist/index.m3u8'
+2025.10.26 11:47:23 Debug      -  [AVProVideo] Opening https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518842/ei/mlD-aMPiII_Ey_sPiJzvyQs/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/15/met/1761497242,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsknes/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5Q2HlsNbhN1L7K4Zuuui4627qpjIzSnLOJkgI_UFrULecfO_6_Z8Z3fo9SqxIgyybZfviluM1qS/spc/6b0G_KlCRzK2KPhiPQF06sLfPlmBN9bbk3_cetIquiyFZvpA4q6on_MZ9QpOiSFrsh4k4WWRrWKYpD41oXtFQUzX/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgXQnW-jdLNb29x7iGjPooJAZa0CA9cTLZuRaghnlbdEsCIQDLcPwbIsgWnvNHbnzayBQlSdPwawiiGUk_w8SLtq_hPA%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAJpdfbd744_KESYnE9-wr_l45In-Bu36IwN1UG5Tb5RaAiEAkzZbzFflkvb8y7LX5TjI1xk6nwetZlvX8oULBHnZXwQ%3D/playlist/index.m3u8 (offset 0) with API MediaFoundation
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Texture updating to 1024x512 (2)
+2025.10.26 11:47:23 Error      -  [AVProVideo] Error: Loading failed.  File not found, codec not supported, video resolution too high or insufficient system resources.
+2025.10.26 11:47:23 Error      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Video Error: PlayerError
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Error occured for url 'https://www.youtube.com/watch?v=pMgHX2dhVlE'
+2025.10.26 11:47:23 Warning    -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Unexpected error with the media playback.
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] 1 retries remaining.
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh triggered for 6 seconds from now, from source: _OnVideoPlayerError - AutoRetry
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoadingEnd to 4 listeners
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_ERROR to 4 listeners
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: PlayerError
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvVideoPlayerError to 4 listeners
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	1.00000	1.00000
+0.35000	0.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:23 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:27 Debug      -  [String Download] Attempting to load String from URL 'https://gist.githubusercontent.com/Master-Machines/d3114ac2ac1d137d8e4483f3afc2c81d/raw/'
+2025.10.26 11:47:27 Debug      -  [Image Download] Attempting to load image from URL 'https://master-machines.github.io/thunder-tavern-images/boardgames/pmong2.png'
+2025.10.26 11:47:27 Debug      -  [RemotePosters] Image loaded: 16777215 bytes.
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh media via delay
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] No URL change. Running generic reload.
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] [Compat] loading URL by user 'mastermachines': https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh, jump time: 1.401298E-45 | retry False || force False
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] useAlt True hasAlt False hasMain False
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Keys: v
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Values: pMgHX2dhVlE
+2025.10.26 11:47:29 Debug      -  [Video Playback] Attempting to resolve URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE'
+2025.10.26 11:47:29 Debug      -  NativeProcess.Start: started process id [32484]: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_URL to 4 listeners
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvMediaChange to 4 listeners
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoading to 4 listeners
+2025.10.26 11:47:29 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	1.00000	1.00000
+0.35000	0.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:32 Debug      -  [String Download] Attempting to load String from URL 'https://gist.githubusercontent.com/Master-Machines/a1acf88bfc626f6cb22b68bce599c12b/raw'
+2025.10.26 11:47:32 Debug      -  [Image Download] Attempting to load image from URL 'https://master-machines.github.io/thunder-tavern-images/gallery/supporter_contributions/komgam4.png'
+2025.10.26 11:47:32 Debug      -  [RemotePosters] Image loaded: 5195520 bytes.
+2025.10.26 11:47:32 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>PlaylistUI (Playlist)</color>] Auto-detecting selected index via interaction of possible 13
+2025.10.26 11:47:32 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>PlaylistUI (Playlist)</color>] Detected view index 123 from raw 123
+2025.10.26 11:47:32 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Updating priority for Playlist
+2025.10.26 11:47:32 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] No priority change required. Skipping
+2025.10.26 11:47:32 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines super authorized? True
+IsFirstMaster True
+IsInstanceOwner True
+Is the TV not syncing to the owner? False
+Is the user implicitly a superuser? True
+2025.10.26 11:47:32 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:32 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Updated to 2 entries. Current entry is 0
+2025.10.26 11:47:33 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] All good
+2025.10.26 11:47:33 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Sync delivered.
+2025.10.26 11:47:34 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Expanding event register to 1: Adding GeneralQueue
+2025.10.26 11:47:34 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event _ManagerReady to 1 listener
+2025.10.26 11:47:34 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:34 Debug      -  NativeProcess.HasExited: process exited with code 0, took 4857 ms. Command line: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:34 Debug      -  [Video Playback] URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE' resolved to 'https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518854/ei/pVD-aMWFN9Oty_sP6P7x0As/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/21/met/1761497253,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsknes/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5QdAPF7HsKYE6xTIr8K3iVh_OJJ7CgMfbgmOHA5uxUHnYJEi3Eqgi7G7NRLQK5E5m2H5pMtvMN9/spc/6b0G_Frsljh9QamEqrg8wAfCQiPBdmJat00lleuO-6pQOuWhaM_RgrzU63FkKpGiyFnVPSdagiGSIbnPPUEBT7We/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANOJj4FZGvg8-6WoeSgOEGjMKnwrZWmMmngsah5dAYOmAiEA8DIQfD0lFDK5PHrwEa1qOjnUb7BNwjL4qg5gHfElz18%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIhAPYAod_bjuKoRvCOir5t8G8SyuAMxMmEIdhpKwUSj7ErAiA7tYxDQAZMVzcOQsKMxHyxYKX2IA-QDXVNXDGOT8luSQ%3D%3D/playlist/index.m3u8'
+2025.10.26 11:47:34 Debug      -  [AVProVideo] Opening https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518854/ei/pVD-aMWFN9Oty_sP6P7x0As/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/21/met/1761497253,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsknes/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5QdAPF7HsKYE6xTIr8K3iVh_OJJ7CgMfbgmOHA5uxUHnYJEi3Eqgi7G7NRLQK5E5m2H5pMtvMN9/spc/6b0G_Frsljh9QamEqrg8wAfCQiPBdmJat00lleuO-6pQOuWhaM_RgrzU63FkKpGiyFnVPSdagiGSIbnPPUEBT7We/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANOJj4FZGvg8-6WoeSgOEGjMKnwrZWmMmngsah5dAYOmAiEA8DIQfD0lFDK5PHrwEa1qOjnUb7BNwjL4qg5gHfElz18%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIhAPYAod_bjuKoRvCOir5t8G8SyuAMxMmEIdhpKwUSj7ErAiA7tYxDQAZMVzcOQsKMxHyxYKX2IA-QDXVNXDGOT8luSQ%3D%3D/playlist/index.m3u8 (offset 0) with API MediaFoundation
+2025.10.26 11:47:35 Error      -  [AVProVideo] Error: Loading failed.  File not found, codec not supported, video resolution too high or insufficient system resources.
+2025.10.26 11:47:35 Error      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Video Error: PlayerError
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Error occured for url 'https://www.youtube.com/watch?v=pMgHX2dhVlE'
+2025.10.26 11:47:35 Warning    -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Unexpected error with the media playback.
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] 0 retries remaining.
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh triggered for 6 seconds from now, from source: _OnVideoPlayerError - AutoRetry
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoadingEnd to 4 listeners
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event LoadingEnd to 1 listeners
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_ERROR to 4 listeners
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: PlayerError
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvVideoPlayerError to 4 listeners
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	1.00000	1.00000
+0.35000	0.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:35 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:37 Debug      -  [String Download] Attempting to load String from URL 'https://gist.githubusercontent.com/Master-Machines/ffeaf68798065814707b0033246717e8/raw/'
+2025.10.26 11:47:37 Debug      -  KS String Load Success: ks1<remove>
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh media via delay
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] No URL change. Running generic reload.
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] [Compat] loading URL by user 'mastermachines': https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh, jump time: 1.401298E-45 | retry False || force False
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] useAlt False hasAlt False hasMain False
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Keys: v
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Values: pMgHX2dhVlE
+2025.10.26 11:47:41 Debug      -  [Video Playback] Attempting to resolve URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE'
+2025.10.26 11:47:41 Debug      -  NativeProcess.Start: started process id [32296]: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_URL to 4 listeners
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: https://www.youtube.com/watch?v=pMgHX2dhVlE
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvMediaChange to 4 listeners
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoading to 4 listeners
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event Loading to 1 listeners
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Now loading
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	1.00000	1.00000
+0.35000	0.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Skip detected. Current media ending. time -1
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Ending media playback.
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvMediaEnd to 4 listeners
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Media full ending: actual False or not waiting True
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvPlaybackEnd to 4 listeners
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	1.00000	1.00000
+0.35000	1.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:41 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:45 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Auto-detecting selected index via interaction
+2025.10.26 11:47:45 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Detected index 1
+2025.10.26 11:47:46 Debug      -  NativeProcess.HasExited: process exited with code 0, took 4774 ms. Command line: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:46 Debug      -  [Video Playback] URL 'https://www.youtube.com/watch?v=pMgHX2dhVlE' resolved to 'https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518865/ei/sVD-aOzWDeCBy_sP-7jL6Ak/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/121/met/1761497265,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsrnek/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5RlyVR-6t0LvbmWK-XRXdqbQr8KkYiw4nXTFAOvLDQ5JevStfVSwZo0c3Vq8KxDd-GwXgODYLEU/spc/6b0G_AtnL0V3kzhsRlMQg2hxgN0q94hr1rakVXXb7hAYubkF0BbfPsNvPuW80pUn2-cktSJrx8VlIxj1YuLbKlwV/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgAx8yQSq7bMCCsCRgIyYRdzc8Ix01zmsrKfRg1XUaOegCIQDy5Hlyz6NkJsO2HgAjmfvt28FO11wUdoZdtCfJ7x3F-g%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIhAJGOzu-JU2RllQLtECUY4462BHYYyCGefcayXkjd4sNLAiA4AS5jxe8wUALBgRiMhOW25m90cWO1cXyVkw8T-Xy3_w%3D%3D/playlist/index.m3u8'
+2025.10.26 11:47:46 Debug      -  [AVProVideo] Opening https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518865/ei/sVD-aOzWDeCBy_sP-7jL6Ak/ip/23.121.117.229/id/a4c8075f67615651/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D2488371%3Bdur%3D153.599%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1616270592033957/sgovp/clen%3D1175130%3Bdur%3D153.600%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1616270998423429/rqh/1/hls_chunk_host/rr3---sn-bvvbaxivnuxq5uu-vgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/121/met/1761497265,/mh/kB/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgql,sn-vgqsrnek/ms/au,rdu/mv/m/mvi/3/pl/19/rms/au,au/gcr/us/initcwndbps/1362500/bui/AdEuB5RlyVR-6t0LvbmWK-XRXdqbQr8KkYiw4nXTFAOvLDQ5JevStfVSwZo0c3Vq8KxDd-GwXgODYLEU/spc/6b0G_AtnL0V3kzhsRlMQg2hxgN0q94hr1rakVXXb7hAYubkF0BbfPsNvPuW80pUn2-cktSJrx8VlIxj1YuLbKlwV/vprv/1/playlist_type/CLEAN/dover/11/txp/5432432/mt/1761496857/fvip/2/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgAx8yQSq7bMCCsCRgIyYRdzc8Ix01zmsrKfRg1XUaOegCIQDy5Hlyz6NkJsO2HgAjmfvt28FO11wUdoZdtCfJ7x3F-g%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIhAJGOzu-JU2RllQLtECUY4462BHYYyCGefcayXkjd4sNLAiA4AS5jxe8wUALBgRiMhOW25m90cWO1cXyVkw8T-Xy3_w%3D%3D/playlist/index.m3u8 (offset 0) with API MediaFoundation
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Auto-detecting selected index via interaction
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Detected index 1
+2025.10.26 11:47:46 Debug      -  [Image Download] Attempting to load image from URL 'https://master-machines.github.io/thunder-tavern-images/gallery/house/house9.png'
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Auto-detecting selected index via interaction
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Detected index 1
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Auto-detecting selected index via interaction
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Detected index 1
+2025.10.26 11:47:46 Debug      -  [RemotePosters] Image loaded: 5195520 bytes.
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Auto-detecting selected index via interaction
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Detected index 1
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Auto-detecting selected index via interaction
+2025.10.26 11:47:46 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Detected index 1
+2025.10.26 11:47:47 Error      -  [AVProVideo] Error: Loading failed.  File not found, codec not supported, video resolution too high or insufficient system resources.
+2025.10.26 11:47:47 Error      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Video Error: PlayerError
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Error occured for url 'https://www.youtube.com/watch?v=pMgHX2dhVlE'
+2025.10.26 11:47:47 Warning    -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Unexpected error with the media playback.
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoadingEnd to 4 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event LoadingEnd to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Keys: v
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Values: pMgHX2dhVlE
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_ERROR to 4 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: PlayerError
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvVideoPlayerError to 4 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event VideoError to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Next Requested, tv unlocked (by me True)
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Updated to 1 entries. Current entry is 0
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event UpdateUI to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding variable OUT_INDEX to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event _QueueEntryRemoved to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] New URL - https://www.youtube.com/watch?v=Lo2qQmj0_h4 | Title 'Shook Me All Night Long - AC/DC'
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding variable OUT_TEXT to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event UpdateToaster to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh triggered for 0 seconds from now, from source: _ChangeMedia
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	3.00000	1.00000
+0.35000	1.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] All good
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Sync delivered.
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh media via delay
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines authorized? True
+IsMaster True 
+Is First Master True 
+Is Instance Owner True 
+Is the TV not syncing to the owner? False
+Is the user implicitly authorized? True
+And TV is not locked by a superuser? True
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] CanPlayMedia(mastermachines): True && ((True && True) || True)
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] New URL(s) detected.
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Is the user mastermachines super authorized? True
+IsFirstMaster True
+IsInstanceOwner True
+Is the TV not syncing to the owner? False
+Is the user implicitly a superuser? True
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#c0c0c0>INFO</color>    	<color=#00ff00>TVManager (Simple (ProTV))</color>] [Compat] loading URL by user 'mastermachines': https://www.youtube.com/watch?v=Lo2qQmj0_h4
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] useAlt False hasAlt False hasMain True
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Keys: v
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Url Param Values: Lo2qQmj0_h4
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Change info loaded: retry=2, live=False
+2025.10.26 11:47:47 Debug      -  [Video Playback] Attempting to resolve URL 'https://www.youtube.com/watch?v=Lo2qQmj0_h4'
+2025.10.26 11:47:47 Debug      -  NativeProcess.Start: started process id [32712]: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_URL to 4 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: https://www.youtube.com/watch?v=Lo2qQmj0_h4
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvMediaChange to 4 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoading to 4 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event Loading to 1 listeners
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffaa66>QueueUI (GeneralQueue)</color>] Now loading
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	0.00000	1.00000
+0.35000	1.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:47 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:49 Error      -  FriendUpdated: couldn't find user: usr_1fd73d3c-9260-4c35-854a-1bd5a41d241d
+2025.10.26 11:47:52 Debug      -  NativeProcess.HasExited: process exited with code 0, took 4802 ms. Command line: C:/Users/M3ST3/AppData/LocalLow/VRChat/VRChat\Tools/yt-dlp.exe (...)
+2025.10.26 11:47:52 Debug      -  [Video Playback] URL 'https://www.youtube.com/watch?v=Lo2qQmj0_h4' resolved to 'https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518871/ei/t1D-aLH8De_By_sPoavEgQw/ip/23.121.117.229/id/2e8daa4268f4fe1e/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D3368594%3Bdur%3D208.097%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1751413620731103/sgovp/clen%3D18196442%3Bdur%3D208.041%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1751415406272146/rqh/1/hls_chunk_host/rr4---sn-bvvbaxivnuxq5uu-vgqz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/518/met/1761497271,/mh/dK/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgqz,sn-vgqsrns6/ms/au,rdu/mv/m/mvi/4/pl/19/rms/au,au/gcr/us/initcwndbps/1525000/bui/AdEuB5Tng8xN0eLr4gbgl4whiFArSacnrKXbddtiyg3UQVa8GWhP0Svw09dr9RRQIW5ILQnGd3tFxnrz/spc/6b0G_NkVTmrbQBhI4DK_udOr2qaB27dLR03qFUA6lZFN9YPwAjuNq2rFdR5sDO9w6cKii9Al9HYM84mUjc9VZ11J/vprv/1/playlist_type/CLEAN/dover/11/txp/4532534/mt/1761496857/fvip/4/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANqEFi0rbmddVFwVIbU9th440JC9RYJb6a866Hg1qBhWAiEAw7469wE9UiRUwuQDPZ5-6MSgazTnFujDXf7ZmFq6FNA%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAKQKJeu6XwsilaHfgfzCWp3nKmn-BRGys_9rGy2aFQqSAiEAnVAzxtGu4z4PaBGZ_3ZSmx6yWzhIcomZ1YsvtCccFyA%3D/playlist/index.m3u8'
+2025.10.26 11:47:52 Debug      -  [AVProVideo] Opening https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761518871/ei/t1D-aLH8De_By_sPoavEgQw/ip/23.121.117.229/id/2e8daa4268f4fe1e/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D3368594%3Bdur%3D208.097%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1751413620731103/sgovp/clen%3D18196442%3Bdur%3D208.041%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1751415406272146/rqh/1/hls_chunk_host/rr4---sn-bvvbaxivnuxq5uu-vgqz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/518/met/1761497271,/mh/dK/mm/31,29/mn/sn-bvvbaxivnuxq5uu-vgqz,sn-vgqsrns6/ms/au,rdu/mv/m/mvi/4/pl/19/rms/au,au/gcr/us/initcwndbps/1525000/bui/AdEuB5Tng8xN0eLr4gbgl4whiFArSacnrKXbddtiyg3UQVa8GWhP0Svw09dr9RRQIW5ILQnGd3tFxnrz/spc/6b0G_NkVTmrbQBhI4DK_udOr2qaB27dLR03qFUA6lZFN9YPwAjuNq2rFdR5sDO9w6cKii9Al9HYM84mUjc9VZ11J/vprv/1/playlist_type/CLEAN/dover/11/txp/4532534/mt/1761496857/fvip/4/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANqEFi0rbmddVFwVIbU9th440JC9RYJb6a866Hg1qBhWAiEAw7469wE9UiRUwuQDPZ5-6MSgazTnFujDXf7ZmFq6FNA%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAKQKJeu6XwsilaHfgfzCWp3nKmn-BRGys_9rGy2aFQqSAiEAnVAzxtGu4z4PaBGZ_3ZSmx6yWzhIcomZ1YsvtCccFyA%3D/playlist/index.m3u8 (offset 0) with API MediaFoundation
+2025.10.26 11:47:52 Error      -  [AVProVideo] Error: Loading failed.  File not found, codec not supported, video resolution too high or insufficient system resources.
+2025.10.26 11:47:52 Error      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Video Error: PlayerError
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Error occured for url 'https://www.youtube.com/watch?v=Lo2qQmj0_h4'
+2025.10.26 11:47:52 Warning    -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color>	<color=#00ff00>TVManager (Simple (ProTV))</color>] Unexpected error with the media playback.
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] 1 retries remaining.
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Refresh triggered for 6 seconds from now, from source: _OnVideoPlayerError - AutoRetry
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvLoadingEnd to 4 listeners
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#ffff00>Queue (Simple (ProTV)/Queue)</color>] Forwarding event LoadingEnd to 1 listeners
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding variable OUT_ERROR to 4 listeners
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Variable value is: PlayerError
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvVideoPlayerError to 4 listeners
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Latest VideoData:
+8.00000	3.00000	1.00000	1.00000
+0.35000	1.00000	1.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+0.00000	0.00000	0.00000	0.00000
+
+2025.10.26 11:47:52 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] All good.
+2025.10.26 11:47:54 Debug      -  Notifications Cleared!
+2025.10.26 11:47:54 Debug      -  Installer: No need to run install.exe
+2025.10.26 11:47:54 Debug      -  VRCApplication: HandleApplicationQuit at 58.2742
+2025.10.26 11:47:54 Debug      -  [AVProVideo] Shutdown
+2025.10.26 11:47:54 Debug      -  VRCNP: Stopping server
+2025.10.26 11:47:54 Debug      -  UserInterface destroyed
+2025.10.26 11:47:54 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Disabling TV
+2025.10.26 11:47:54 Error      -  Unable to send network event 'ALL_OwnerDisabled' as it does not exist on the target Udon behaviour 'Simple (ProTV)'.
+2025.10.26 11:47:54 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#cccc44>TVManagerData (Simple (ProTV)/TVData)</color>] Requesting serialization
+2025.10.26 11:47:54 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ff00ff>TRACE</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Sync Enforcement triggered for 0.2 seconds from now
+2025.10.26 11:47:54 Debug      -  [<color=#1F84A9>A</color><color=#A3A3A3>T</color> <color=#ffa500>DEBUG</color> 	<color=#00ff00>TVManager (Simple (ProTV))</color>] Forwarding event _TvPause to 4 listeners
+2025.10.26 11:47:54 Warning    -  [Behaviour] Logger is null
+2025.10.26 11:47:54 Error      -  Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+  at RealisticEyeMovements.ControlData.ÍÍÏÍÌÌÎÌÍÏÌÍÌÏÍÎÌÍÏÎÏÍÍ (RealisticEyeMovements.ControlData+EyelidPositionBlendshape[] ÍÍÎÎÎÎÍÍÍÍÏÏÌÍÎÎÌÍÏÌÏÍÏ, System.Single ÎÎÏÎÌÌÎÌÌÏÌÌÎÎÏÍÍÍÌÌÏÌÏ, System.Boolean ÎÍÎÌÍÎÍÏÏÌÎÏÎÏÍÏÎÏÍÏÏÍÌ) [0x00000] in <00000000000000000000000000000000>:0 
+  at RealisticEyeMovements.ControlData.ÏÍÎÏÌÏÎÎÌÎÍÌÎÎÍÏÌÍÏÏÍÌÍ (System.Single ÍÌÏÏÎÎÍÎÎÏÌÍÏÎÌÍÏÌÎÌÏÌÍ, System.Single ÍÏÎÏÍÌÎÌÏÍÌÏÏÏÏÍÏÏÏÏÌÏÎ, System.Single ÌÍÏÎÏÎÏÌÍÌÌÏÎÌÍÏÎÏÌÍÌÎÍ, System.Boolean ÎÌÎÎÌÌÌÏÌÎÌÌÌÌÏÌÌÏÌÍÍÏÎ) [0x00000] in <00000000000000000000000000000000>:0 
+  at RealisticEyeMovements.EyeAndHeadAnimator.OnDisable () [0x00000] in <00000000000000000000000000000000>:0 
+2025.10.26 11:47:54 Debug      -  [Behaviour] Destroying mastermachines
+2025.10.26 11:47:54 Debug      -  Saving Avatar Data:avtr_2489dabd-f7da-400f-9de5-4ddd4ee51196
+2025.10.26 11:47:54 Debug      -  [Behaviour] uSpeak [1][-645787738]: OnDestroy
+2025.10.26 11:47:54 Debug      -  [Behaviour] uSpeak [1][-645787738]: ProcessCompletedEncodesAsync task cancelled (read).
+2025.10.26 11:47:54 Debug      -  [Behaviour] uSpeak [1][-645787737]: ProcessVisemeAsync task cancelled (read).
+2025.10.26 11:47:54 Debug      -  [Behaviour] uSpeak [1][-645787737]: ProcessEncodeAsync task cancelled (read).
+2025.10.26 11:47:54 Debug      -  [Behaviour] uSpeak [1][-645787737]: Stop Microphone: Microphone (Virtual Desktop Audio)
