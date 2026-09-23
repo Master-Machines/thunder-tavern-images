@@ -1,9 +1,9 @@
 {
  "version": 1,
  "slots": 200,
- "updated": 1790191443,
+ "updated": 1790198906,
  "base_url": "https://master-machines.github.io/thunder-tavern-images/gallery/slots/",
- "count": 66,
+ "count": 67,
  "photos": [
   {
    "slot": 0,
@@ -399,6 +399,12 @@
    "slot": 65,
    "title": "Furality 2026",
    "chooser": "TheGamateers",
+   "taker": ""
+  },
+  {
+   "slot": 66,
+   "title": "Succubus Birthday 2026",
+   "chooser": "Succubus Gang",
    "taker": ""
   }
  ],
