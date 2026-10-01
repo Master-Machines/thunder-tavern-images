@@ -1,7 +1,7 @@
 {
  "version": 1,
  "slots": 200,
- "updated": 1790818261,
+ "updated": 1790818368,
  "base_url": "https://master-machines.github.io/thunder-tavern-images/gallery/slots/",
  "count": 68,
  "photos": [
@@ -409,9 +409,9 @@
   },
   {
    "slot": 67,
-   "title": "",
-   "chooser": "",
-   "taker": ""
+   "title": "September 28th, 2026",
+   "chooser": "DominoHikage",
+   "taker": "AlaskaDZ"
   }
  ],
  "hidden": []
