@@ -1,9 +1,9 @@
 {
  "version": 1,
  "slots": 200,
- "updated": 1790818368,
+ "updated": 1790818430,
  "base_url": "https://master-machines.github.io/thunder-tavern-images/gallery/slots/",
- "count": 68,
+ "count": 67,
  "photos": [
   {
    "slot": 0,
@@ -218,12 +218,6 @@
   {
    "slot": 35,
    "title": "Jan 15th, 2023",
-   "chooser": "Kelpìe",
-   "taker": ""
-  },
-  {
-   "slot": 36,
-   "title": "June 14th, 2025",
    "chooser": "Kelpìe",
    "taker": ""
   },
