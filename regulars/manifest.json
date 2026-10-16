@@ -1,0 +1,198 @@
+{
+ "version": 1,
+ "updated": 1792159378,
+ "max": 25,
+ "atlas": {
+  "file": "atlas/0.png",
+  "slot": 0,
+  "sha": "8267135a30a10a3b3e2b7f35cab002d412a06c5a",
+  "w": 2040,
+  "h": 1224,
+  "columns": 5,
+  "cell": 408,
+  "pad": 4
+ },
+ "count": 15,
+ "groups": [
+  {
+   "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
+   "name": "VR Drinking Games",
+   "cell": 0,
+   "rect": [
+    4,
+    73,
+    400,
+    261
+   ],
+   "logo": "818b0334538a0bce6ce52b658a90d75805f08183"
+  },
+  {
+   "id": "grp_a0e783b4-d084-444b-9682-41b2456faeb1",
+   "name": "RAILJACK RAIDERS",
+   "cell": 1,
+   "rect": [
+    438,
+    4,
+    347,
+    400
+   ],
+   "logo": "47e8d854903d3e516f5091bb08001d3f8e2df17b"
+  },
+  {
+   "id": "grp_1ef18c40-853e-402d-b922-697eb2bd56a4",
+   "name": "Succubus Gang",
+   "cell": 2,
+   "rect": [
+    820,
+    5,
+    400,
+    398
+   ],
+   "logo": "ec02941cd93646463ecc00993711f89286c8000d"
+  },
+  {
+   "id": "grp_8f5ac27c-eafd-446e-8825-1688fe2ef19c",
+   "name": "Emo Night 18+",
+   "cell": 3,
+   "rect": [
+    1228,
+    104,
+    400,
+    200
+   ],
+   "logo": "3577b34e25f332c02f39111e7414e119fc541681"
+  },
+  {
+   "id": "grp_47c6e4b8-ff12-4f09-bac1-7c12e16fc0e6",
+   "name": "Drinking in Purgatory",
+   "cell": 4,
+   "rect": [
+    1636,
+    4,
+    400,
+    400
+   ],
+   "logo": "717bc64963073255aa53381084c9214078ff83bf"
+  },
+  {
+   "id": "grp_d8646ecd-9c0e-4630-9d94-9848758b66e2",
+   "name": "Rhapsody Rose Renegades",
+   "cell": 5,
+   "rect": [
+    4,
+    412,
+    400,
+    400
+   ],
+   "logo": "28ad6827c99734485773b197ae5eb536755d6f28"
+  },
+  {
+   "id": "grp_ddb1c74f-4cf3-421e-b8e8-805700f8a7d5",
+   "name": "Blackout Nights",
+   "cell": 6,
+   "rect": [
+    412,
+    412,
+    400,
+    400
+   ],
+   "logo": "1527a3bfd4a517fbff5a460052390fbd77177196"
+  },
+  {
+   "id": "grp_8bebc211-584c-4460-b5ae-37fa2329a657",
+   "name": "Last Call Lounge",
+   "cell": 7,
+   "rect": [
+    820,
+    481,
+    400,
+    261
+   ],
+   "logo": "c61fefdd661543e7c20f13efd1958ba9f72f6819"
+  },
+  {
+   "id": "grp_059ac659-5ad3-4768-991d-2fcd382952a1",
+   "name": "Ill-Natured",
+   "cell": 8,
+   "rect": [
+    1229,
+    412,
+    398,
+    400
+   ],
+   "logo": "004fef64d37e99742ab5edcc66ace46fa03cb562"
+  },
+  {
+   "id": "grp_bfcbeb75-1050-422f-be2b-90859cc2dd5c",
+   "name": "Misfits",
+   "cell": 9,
+   "rect": [
+    1636,
+    412,
+    400,
+    400
+   ],
+   "logo": "5ea05898777254840896b02cc95ea79586a46eb8"
+  },
+  {
+   "id": "grp_57b0ffe9-0b82-469e-8290-eb3d0cd307dd",
+   "name": "Rum Runners",
+   "cell": 10,
+   "rect": [
+    4,
+    820,
+    400,
+    400
+   ],
+   "logo": "df9fa1cf9ff695a2af6b4baf2566fee6c583db36"
+  },
+  {
+   "id": "grp_a6cc20ae-9959-4d77-b9ec-95bd4940f7b1",
+   "name": "The Frog Kingdom",
+   "cell": 11,
+   "rect": [
+    412,
+    892,
+    400,
+    255
+   ],
+   "logo": "519f79be97155cf4fffabfe1bbddc44c12b5d966"
+  },
+  {
+   "id": "grp_33a23eaf-1fbd-4f44-bb22-0db8838a2abd",
+   "name": "The Dream Lover's",
+   "cell": 12,
+   "rect": [
+    820,
+    873,
+    400,
+    293
+   ],
+   "logo": "bbd050d734aca8d5beefe0f95d18c89d56a06e73"
+  },
+  {
+   "id": "grp_947c2a28-1034-4132-8e14-4fe360f3bc9f",
+   "name": "The Tap",
+   "cell": 13,
+   "rect": [
+    1318,
+    820,
+    219,
+    400
+   ],
+   "logo": "17baa4149f755c4ab7a059dfef0be0b0804cc709"
+  },
+  {
+   "id": "grp_f394b8e1-c177-41f7-91df-3fee9497ca2c",
+   "name": "Trust Me It's 5",
+   "cell": 14,
+   "rect": [
+    1636,
+    822,
+    400,
+    395
+   ],
+   "logo": "8d2e97492dbf2546b9f9d9e924a879df4d0dbf87"
+  }
+ ]
+}
