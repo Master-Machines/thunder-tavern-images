@@ -1,18 +1,18 @@
 {
  "version": 1,
- "updated": 1792162787,
+ "updated": 1792164961,
  "max": 25,
  "atlas": {
-  "file": "atlas/1.png",
-  "slot": 1,
-  "sha": "8791e120111e8b87e64cf7fc98a7acaeb2e0577d",
+  "file": "atlas/2.png",
+  "slot": 2,
+  "sha": "1baee29149701d8bf740beab38e5dab2da3e440d",
   "w": 2040,
-  "h": 1224,
+  "h": 1632,
   "columns": 5,
   "cell": 408,
   "pad": 4
  },
- "count": 12,
+ "count": 13,
  "groups": [
   {
    "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
@@ -157,6 +157,18 @@
     400
    ],
    "logo": "b80fe88de9a53667d227af60534ba726a6a7130a"
+  },
+  {
+   "id": "grp_e05e76aa-296d-45dc-8356-bbaf042f2ea5",
+   "name": "Limitless",
+   "cell": 15,
+   "rect": [
+    4,
+    1228,
+    400,
+    400
+   ],
+   "logo": "97db30b6f7021874d85e5cce53e925f2a48ef461"
   }
  ]
 }
