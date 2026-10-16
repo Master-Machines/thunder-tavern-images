@@ -1,18 +1,18 @@
 {
  "version": 1,
- "updated": 1792159378,
+ "updated": 1792162787,
  "max": 25,
  "atlas": {
-  "file": "atlas/0.png",
-  "slot": 0,
-  "sha": "8267135a30a10a3b3e2b7f35cab002d412a06c5a",
+  "file": "atlas/1.png",
+  "slot": 1,
+  "sha": "8791e120111e8b87e64cf7fc98a7acaeb2e0577d",
   "w": 2040,
   "h": 1224,
   "columns": 5,
   "cell": 408,
   "pad": 4
  },
- "count": 15,
+ "count": 12,
  "groups": [
   {
    "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
@@ -123,18 +123,6 @@
    "logo": "004fef64d37e99742ab5edcc66ace46fa03cb562"
   },
   {
-   "id": "grp_bfcbeb75-1050-422f-be2b-90859cc2dd5c",
-   "name": "Misfits",
-   "cell": 9,
-   "rect": [
-    1636,
-    412,
-    400,
-    400
-   ],
-   "logo": "5ea05898777254840896b02cc95ea79586a46eb8"
-  },
-  {
    "id": "grp_57b0ffe9-0b82-469e-8290-eb3d0cd307dd",
    "name": "Rum Runners",
    "cell": 10,
@@ -145,30 +133,6 @@
     400
    ],
    "logo": "df9fa1cf9ff695a2af6b4baf2566fee6c583db36"
-  },
-  {
-   "id": "grp_a6cc20ae-9959-4d77-b9ec-95bd4940f7b1",
-   "name": "The Frog Kingdom",
-   "cell": 11,
-   "rect": [
-    412,
-    892,
-    400,
-    255
-   ],
-   "logo": "519f79be97155cf4fffabfe1bbddc44c12b5d966"
-  },
-  {
-   "id": "grp_33a23eaf-1fbd-4f44-bb22-0db8838a2abd",
-   "name": "The Dream Lover's",
-   "cell": 12,
-   "rect": [
-    820,
-    873,
-    400,
-    293
-   ],
-   "logo": "bbd050d734aca8d5beefe0f95d18c89d56a06e73"
   },
   {
    "id": "grp_947c2a28-1034-4132-8e14-4fe360f3bc9f",
@@ -188,11 +152,11 @@
    "cell": 14,
    "rect": [
     1636,
-    822,
+    820,
     400,
-    395
+    400
    ],
-   "logo": "8d2e97492dbf2546b9f9d9e924a879df4d0dbf87"
+   "logo": "b80fe88de9a53667d227af60534ba726a6a7130a"
   }
  ]
 }
