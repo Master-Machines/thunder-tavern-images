@@ -1,18 +1,18 @@
 {
  "version": 1,
- "updated": 1792549401,
+ "updated": 1792556327,
  "max": 25,
  "atlas": {
-  "file": "atlas/4.png",
-  "slot": 4,
-  "sha": "fb6bc65fd777d524ee27324ea4b0baa359c409c1",
+  "file": "atlas/5.png",
+  "slot": 5,
+  "sha": "999b0e4822d2c4082e1600ecbf91dd6454551a48",
   "w": 2040,
   "h": 1632,
   "columns": 5,
   "cell": 408,
   "pad": 4
  },
- "count": 12,
+ "count": 13,
  "groups": [
   {
    "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
@@ -109,6 +109,18 @@
     400
    ],
    "logo": "004fef64d37e99742ab5edcc66ace46fa03cb562"
+  },
+  {
+   "id": "grp_26627317-f391-47be-bff3-6316a21f9b6b",
+   "name": "Twisted Travelers",
+   "cell": 9,
+   "rect": [
+    1636,
+    412,
+    400,
+    400
+   ],
+   "logo": "a55c09d71620ded8f31de1460f67b72f8929501d"
   },
   {
    "id": "grp_57b0ffe9-0b82-469e-8290-eb3d0cd307dd",
