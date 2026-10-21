@@ -1,18 +1,18 @@
 {
  "version": 1,
- "updated": 1792441715,
+ "updated": 1792549401,
  "max": 25,
  "atlas": {
-  "file": "atlas/3.png",
-  "slot": 3,
-  "sha": "caed2788e5847d881055942bf474cccfa451df98",
+  "file": "atlas/4.png",
+  "slot": 4,
+  "sha": "fb6bc65fd777d524ee27324ea4b0baa359c409c1",
   "w": 2040,
   "h": 1632,
   "columns": 5,
   "cell": 408,
   "pad": 4
  },
- "count": 13,
+ "count": 12,
  "groups": [
   {
    "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
@@ -61,18 +61,6 @@
     200
    ],
    "logo": "3577b34e25f332c02f39111e7414e119fc541681"
-  },
-  {
-   "id": "grp_47c6e4b8-ff12-4f09-bac1-7c12e16fc0e6",
-   "name": "Drinking in Purgatory",
-   "cell": 4,
-   "rect": [
-    1636,
-    4,
-    400,
-    400
-   ],
-   "logo": "717bc64963073255aa53381084c9214078ff83bf"
   },
   {
    "id": "grp_d8646ecd-9c0e-4630-9d94-9848758b66e2",
