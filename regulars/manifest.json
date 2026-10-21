@@ -1,18 +1,18 @@
 {
  "version": 1,
- "updated": 1792556327,
+ "updated": 1792600585,
  "max": 25,
  "atlas": {
-  "file": "atlas/5.png",
-  "slot": 5,
-  "sha": "999b0e4822d2c4082e1600ecbf91dd6454551a48",
+  "file": "atlas/6.png",
+  "slot": 6,
+  "sha": "dc3f17dbb994ae3c4ed6439d356f8bc6a8ba9c69",
   "w": 2040,
   "h": 1632,
   "columns": 5,
   "cell": 408,
   "pad": 4
  },
- "count": 13,
+ "count": 14,
  "groups": [
   {
    "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
@@ -133,6 +133,18 @@
     400
    ],
    "logo": "df9fa1cf9ff695a2af6b4baf2566fee6c583db36"
+  },
+  {
+   "id": "grp_bfcbeb75-1050-422f-be2b-90859cc2dd5c",
+   "name": "Misfits",
+   "cell": 11,
+   "rect": [
+    412,
+    820,
+    400,
+    400
+   ],
+   "logo": "5ea05898777254840896b02cc95ea79586a46eb8"
   },
   {
    "id": "grp_947c2a28-1034-4132-8e14-4fe360f3bc9f",
