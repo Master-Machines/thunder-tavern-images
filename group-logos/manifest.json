@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1792702120,
+ "updated": 1792702892,
  "slots": 200,
  "edge": 400,
  "logos": {
@@ -103,6 +103,102 @@
   "024": {
    "group": "grp_b669bcc6-a9c7-44a7-abd6-4296437f5b70",
    "sha": "0319181f83912d04617ecb34f74893594da87389"
+  },
+  "025": {
+   "group": "grp_d4ea7d47-ed7d-4af1-9f8c-33d7b2d61f2e",
+   "sha": "9d36cf39cd52d5ecaf8d1df7c26d79da3bd0fc14"
+  },
+  "026": {
+   "group": "grp_207d64b1-732d-4fb1-9fcc-0143531e5c11",
+   "sha": "1b884191ebb6daff10cec41f1c6889b6333f9481"
+  },
+  "027": {
+   "group": "grp_6d40c467-1c07-4692-adf1-cb8fb87190bb",
+   "sha": "37259480cff51597e7b5e53f0f192385b8e88f96"
+  },
+  "028": {
+   "group": "grp_e493d348-500f-4935-a0ca-68f9e9021e93",
+   "sha": "91021f8d8e1599d04353954e97a59d390f198d98"
+  },
+  "029": {
+   "group": "grp_0e9d2095-c4e3-4952-9e52-3c14e77d8760",
+   "sha": "8878c54a5e4301dedb4f43c384a18460393c43f7"
+  },
+  "030": {
+   "group": "grp_19b4fc22-c3c7-48a0-ab26-a81f9a199ff4",
+   "sha": "65281b64000ca80b827454f5b09243206144fc25"
+  },
+  "031": {
+   "group": "grp_40c8286d-deec-403b-8e83-00d1b2b06278",
+   "sha": "483f07f41746069cb0a71121492bfbec5b3dc491"
+  },
+  "032": {
+   "group": "grp_1b66c0b6-9770-48ff-8254-84099eb273f8",
+   "sha": "10a31e205b4f82bc624cb0ffe03e82478b312e61"
+  },
+  "033": {
+   "group": "grp_26101c90-3755-4727-bf43-ef73146cb4d5",
+   "sha": "2c18b8b7ca158ae6dcd805c90a7424976aa39699"
+  },
+  "034": {
+   "group": "grp_6661eba8-3da4-4201-9808-2ace90f07202",
+   "sha": "b5a49fc438ee9e2d1203a226033f07ff50545755"
+  },
+  "035": {
+   "group": "grp_8bebc211-584c-4460-b5ae-37fa2329a657",
+   "sha": "7fdf91588c47ff8bbaad4966c64969c4f06b42bb"
+  },
+  "036": {
+   "group": "grp_e05e76aa-296d-45dc-8356-bbaf042f2ea5",
+   "sha": "28e51b66c91f3bb0a212b434194dd448f30a0bdf"
+  },
+  "037": {
+   "group": "grp_3d37215b-3953-40b2-b6c1-08e59e865404",
+   "sha": "1165c0798a046b14d7b53ecf162f67ada6cecae5"
+  },
+  "038": {
+   "group": "grp_bfcbeb75-1050-422f-be2b-90859cc2dd5c",
+   "sha": "3e2695b840a16a152743a6b9eda7a993ee8f9832"
+  },
+  "039": {
+   "group": "grp_5dab1126-304f-41d4-892b-0d8a8840248e",
+   "sha": "37fa1203e99c26ef7122c4837be45b15510ceeb6"
+  },
+  "040": {
+   "group": "grp_6c06d7c5-d229-4027-a721-8ed47a3f8e5b",
+   "sha": "db1abcf99ab5b95e981f2ed6224b62f8e70d19e1"
+  },
+  "041": {
+   "group": "grp_cff70203-eea8-4a85-860f-e1521e6ac788",
+   "sha": "6528f89c506b57380ccc9cfcebf755ce93e45f89"
+  },
+  "042": {
+   "group": "grp_a7b53431-b0bd-4292-8f2c-ecfc243d75c1",
+   "sha": "fb07a561d18f4016a8d4e3d1bb0cebe74fc1aa20"
+  },
+  "043": {
+   "group": "grp_a3240330-38d8-40df-8750-870574856bb4",
+   "sha": "04e2641a7bed044287ee0e34aac868b240de86f3"
+  },
+  "044": {
+   "group": "grp_a0e783b4-d084-444b-9682-41b2456faeb1",
+   "sha": "16ff977822a0705f851a4f72d5dbe22e145500e8"
+  },
+  "045": {
+   "group": "grp_d8646ecd-9c0e-4630-9d94-9848758b66e2",
+   "sha": "7527bdf878bf2d35d629956b0f1f44d3f7b8ece3"
+  },
+  "046": {
+   "group": "grp_57b0ffe9-0b82-469e-8290-eb3d0cd307dd",
+   "sha": "11353ecb4130d657ed62db47c7f7ab309f5b6372"
+  },
+  "047": {
+   "group": "grp_76ca50bc-1a6e-4bec-bee1-db4c142bf0e7",
+   "sha": "e2b86871b1ab2579eaf0bfb81a394b04c0af00a1"
+  },
+  "048": {
+   "group": "grp_1aad5cb4-725c-4953-96d4-5464af328314",
+   "sha": "04b4b969b6021ef64c4fab9d5b34759976776367"
   }
  }
 }
