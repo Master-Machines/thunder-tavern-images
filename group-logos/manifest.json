@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1792703691,
+ "updated": 1792704475,
  "slots": 200,
  "edge": 400,
  "logos": {
@@ -299,6 +299,42 @@
   "073": {
    "group": "grp_2ec9ae02-2bca-4c93-8586-d04e945b4bb3",
    "sha": "fc4dc2da692db1394e0836c500bbca668b326a7d"
+  },
+  "074": {
+   "group": "grp_01570327-b284-42de-b3f2-22bf475fb6e6",
+   "sha": "12c965f1e6ca090e5095fb7cbe5c710f4e8c6c87"
+  },
+  "075": {
+   "group": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
+   "sha": "2ae5f1566b9717b814bdcfbf5eb49f96e2546ecd"
+  },
+  "076": {
+   "group": "grp_282d7bbb-35d1-46ab-bb03-f1d1bdde8944",
+   "sha": "422c320a7d39f1a8f5c1fcb86cb7be04a08b1285"
+  },
+  "077": {
+   "group": "grp_f323801f-de02-4035-931d-2908db18b3b5",
+   "sha": "3606ff41b289f585cad6d1352f5b467fdcce2dae"
+  },
+  "078": {
+   "group": "grp_68276af3-0753-497f-8a82-7c264fe42324",
+   "sha": "8cd12ff4ee84c98c13d3c0c0a6548731a3336c7e"
+  },
+  "079": {
+   "group": "grp_38c652b0-5921-43f6-a048-2393fe3ad91b",
+   "sha": "bb01fc42b60230c1eb194db02e0dc0bbc0518c41"
+  },
+  "080": {
+   "group": "grp_cc3e9aac-b2c7-4e14-88c4-4a4029070c3f",
+   "sha": "2676f2ee14a57ab2fc758ea5b9bf1f1025f164f8"
+  },
+  "081": {
+   "group": "grp_18eb19db-4ccf-4127-ab64-8934439dd317",
+   "sha": "35313d03f042edffdb5b4b0ec1d76d46636b9ce7"
+  },
+  "082": {
+   "group": "grp_b022729f-7c1e-47e2-8359-d3b7732c8dee",
+   "sha": "22b29f0e3231601b7629113917053ff0f0cdf491"
   }
  }
 }
