@@ -1,0 +1,108 @@
+{
+ "version": 1,
+ "updated": 1792702120,
+ "slots": 200,
+ "edge": 400,
+ "logos": {
+  "000": {
+   "group": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
+   "sha": "1f2ebdc849b366d6f495ee0b0bb8be55e2f8a95c"
+  },
+  "001": {
+   "group": "grp_ddb1c74f-4cf3-421e-b8e8-805700f8a7d5",
+   "sha": "9a54f8ec3970a6128c11bff56b3166fa2c74d7aa"
+  },
+  "002": {
+   "group": "grp_6451161d-3b0c-47f5-874e-8fffe3e3a646",
+   "sha": "5ef4c27686a6a580d4522bf19189833dc5938897"
+  },
+  "003": {
+   "group": "grp_a791d812-7800-4e86-abc7-6aed50c0c801",
+   "sha": "9a68cab9b1a48c6ef3b1048c1521c0637ff783c6"
+  },
+  "004": {
+   "group": "grp_c8d5bef4-f2e2-4604-b60c-0c6a25939516",
+   "sha": "b7bbae623d88d7abbb703672abf4048c82f35030"
+  },
+  "005": {
+   "group": "grp_414c6983-fc1d-4c1a-bbe4-ea34d90b0cff",
+   "sha": "7e5ca49d3974490838496085f3a4a3ccd3d39526"
+  },
+  "006": {
+   "group": "grp_2037bb37-c99e-4e94-9ccf-03f0c7658c6c",
+   "sha": "ddc936893840d64d239e2f034c5163b549242cbc"
+  },
+  "007": {
+   "group": "grp_0df0aa9d-a59e-4124-9363-82d9b0c58b71",
+   "sha": "b766890b6aa99d6258fa64b78ce91b5ccef8de0b"
+  },
+  "008": {
+   "group": "grp_e3658e2f-f6a9-4445-b2e6-6093eaeed0a7",
+   "sha": "a6463ac0837f8f5817a28e83e87ce0bbb281f90f"
+  },
+  "009": {
+   "group": "grp_fc46dbd4-173d-4968-ab4f-15653e6dd221",
+   "sha": "d33cd49e2e27afd8a5c6c4ea0dd0c291c7b4427a"
+  },
+  "010": {
+   "group": "grp_b73943f3-5f8e-42ee-a2ba-c2c0689bf885",
+   "sha": "ec717a15931e5583f310824bfc8ca1ef3c93c12e"
+  },
+  "011": {
+   "group": "grp_4c1dc91c-f343-487f-b25d-e108c58d1c94",
+   "sha": "ba25dbf2ea7e23e738cbaa71ee12fae946b519be"
+  },
+  "012": {
+   "group": "grp_47c6e4b8-ff12-4f09-bac1-7c12e16fc0e6",
+   "sha": "b963c0ab2b26a27ce7416127a14e20892a73f5a6"
+  },
+  "013": {
+   "group": "grp_3e1746a4-d719-462e-bfcd-1c0d5238e6be",
+   "sha": "6e353705f2b9e09e33c9275e87c53a96d5d17a98"
+  },
+  "014": {
+   "group": "grp_d905aa30-0673-4b25-bddf-5fd200236700",
+   "sha": "729632aad4d49e64465402df83a0a2bca3b61af2"
+  },
+  "015": {
+   "group": "grp_14201721-cd4c-4052-abea-57bc6f9b279b",
+   "sha": "06faaf9feaf371ea488056798b3e067a1c9ffb43"
+  },
+  "016": {
+   "group": "grp_847c1608-c996-4eae-989a-61ed204a978b",
+   "sha": "d1b601d049489ed171e7e391eab73547114c15c4"
+  },
+  "017": {
+   "group": "grp_fd0ee740-6eaf-485e-a9a0-cba6e7701a91",
+   "sha": "8f454901bb74ca612e49f778df85e200f8074a78"
+  },
+  "018": {
+   "group": "grp_f6d197c4-cf61-48d3-8307-10ed9d781752",
+   "sha": "77ae61cb7e521aa6c03290356b0e9686aee8fe48"
+  },
+  "019": {
+   "group": "grp_8f5ac27c-eafd-446e-8825-1688fe2ef19c",
+   "sha": "2d54e48c1ce5fbc9eb27bbc8d4eca6aaed0cc982"
+  },
+  "020": {
+   "group": "grp_d1e3d9da-502e-4a5e-a931-6cc78ffe544a",
+   "sha": "f81db54d2c401125b2529a25f0cdd6d87456e43f"
+  },
+  "021": {
+   "group": "grp_2b99e386-8bfc-4029-ae96-9da45abbb06d",
+   "sha": "c12c39b090ed3e0363969329694ba5452272debc"
+  },
+  "022": {
+   "group": "grp_229dbb32-84dc-454e-9262-0e99b8d3e348",
+   "sha": "6231fa4d601d01fdbd2ceebe28a69967cf41a1ca"
+  },
+  "023": {
+   "group": "grp_0322f891-b259-4864-a646-45651d6c4630",
+   "sha": "260a8a021c384666e0671ee2c592d248cd17aede"
+  },
+  "024": {
+   "group": "grp_b669bcc6-a9c7-44a7-abd6-4296437f5b70",
+   "sha": "0319181f83912d04617ecb34f74893594da87389"
+  }
+ }
+}
