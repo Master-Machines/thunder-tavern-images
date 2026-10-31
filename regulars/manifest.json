@@ -1,18 +1,18 @@
 {
  "version": 1,
- "updated": 1792600585,
+ "updated": 1793411657,
  "max": 25,
  "atlas": {
-  "file": "atlas/6.png",
-  "slot": 6,
-  "sha": "dc3f17dbb994ae3c4ed6439d356f8bc6a8ba9c69",
+  "file": "atlas/7.png",
+  "slot": 7,
+  "sha": "54ffb669427474e9eedaf0ca71b0013b2f7aaa87",
   "w": 2040,
   "h": 1632,
   "columns": 5,
   "cell": 408,
   "pad": 4
  },
- "count": 14,
+ "count": 13,
  "groups": [
   {
    "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
@@ -97,18 +97,6 @@
     261
    ],
    "logo": "c61fefdd661543e7c20f13efd1958ba9f72f6819"
-  },
-  {
-   "id": "grp_059ac659-5ad3-4768-991d-2fcd382952a1",
-   "name": "Ill-Natured",
-   "cell": 8,
-   "rect": [
-    1229,
-    412,
-    398,
-    400
-   ],
-   "logo": "004fef64d37e99742ab5edcc66ace46fa03cb562"
   },
   {
    "id": "grp_26627317-f391-47be-bff3-6316a21f9b6b",
