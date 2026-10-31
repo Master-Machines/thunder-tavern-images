@@ -1,9 +1,9 @@
 {
  "version": 1,
  "slots": 200,
- "updated": 1792418438,
+ "updated": 1793458714,
  "base_url": "https://master-machines.github.io/thunder-tavern-images/gallery/slots/",
- "count": 68,
+ "count": 69,
  "photos": [
   {
    "slot": 0,
@@ -411,6 +411,12 @@
    "slot": 68,
    "title": "Blackout Nights",
    "chooser": "Liyla",
+   "taker": ""
+  },
+  {
+   "slot": 69,
+   "title": "Happy Halloween",
+   "chooser": "Gspot Events",
    "taker": ""
   }
  ],
