@@ -1,11 +1,11 @@
 {
  "version": 1,
- "updated": 1793460376,
+ "updated": 1793629254,
  "max": 25,
  "atlas": {
-  "file": "atlas/0.png",
-  "slot": 0,
-  "sha": "5ad92072a4a4adf3ff42dacfb3b4529a19a297cd",
+  "file": "atlas/1.png",
+  "slot": 1,
+  "sha": "24a10d9a62ae98a573fcd4e906dea811be1bef64",
   "w": 2040,
   "h": 1632,
   "columns": 5,
@@ -44,11 +44,11 @@
    "cell": 2,
    "rect": [
     820,
-    5,
+    4,
     400,
-    397
+    400
    ],
-   "logo": "a6c663ca47a84f5598f4c977b8f7e5ad2e33de37"
+   "logo": "fffcfe21bac1bafa5a7d9521cff814b67d0868cf"
   },
   {
    "id": "grp_8f5ac27c-eafd-446e-8825-1688fe2ef19c",
