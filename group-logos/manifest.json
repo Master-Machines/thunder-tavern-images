@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1794363283,
+ "updated": 1794371126,
  "slots": 200,
  "edge": 400,
  "logos": {
@@ -318,7 +318,7 @@
   },
   "079": {
    "group": "grp_38c652b0-5921-43f6-a048-2393fe3ad91b",
-   "sha": "bb01fc42b60230c1eb194db02e0dc0bbc0518c41"
+   "sha": "2f50e1407813884d9738582872f8812fd0b4ca79"
   },
   "080": {
    "group": "grp_cc3e9aac-b2c7-4e14-88c4-4a4029070c3f",
