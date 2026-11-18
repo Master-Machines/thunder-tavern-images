@@ -1,11 +1,11 @@
 {
  "version": 1,
- "updated": 1793629254,
+ "updated": 1795015913,
  "max": 25,
  "atlas": {
-  "file": "atlas/1.png",
-  "slot": 1,
-  "sha": "24a10d9a62ae98a573fcd4e906dea811be1bef64",
+  "file": "atlas/2.png",
+  "slot": 2,
+  "sha": "8a9b056df582b949f097a870f1c4ad31f09e8307",
   "w": 2040,
   "h": 1632,
   "columns": 5,
@@ -157,6 +157,44 @@
     400
    ],
    "logo": "97db30b6f7021874d85e5cce53e925f2a48ef461"
+  }
+ ],
+ "supporters": [
+  {
+   "id": "grp_d4ea7d47-ed7d-4af1-9f8c-33d7b2d61f2e",
+   "name": "FurZen",
+   "cell": 4,
+   "rect": [
+    1636,
+    4,
+    400,
+    400
+   ],
+   "logo": "9316057fa381ebe1ba9f611e03f3c51dcf5adb0d"
+  },
+  {
+   "id": "grp_0e9d2095-c4e3-4952-9e52-3c14e77d8760",
+   "name": "Gspot Events",
+   "cell": 8,
+   "rect": [
+    1228,
+    412,
+    400,
+    399
+   ],
+   "logo": "f9cc3e780e7e2aa75e6a5842d25d8e98b45ca40f"
+  },
+  {
+   "id": "grp_298e5a21-7e34-45fc-807c-64e51498488d",
+   "name": "TKC",
+   "cell": 11,
+   "rect": [
+    412,
+    829,
+    400,
+    382
+   ],
+   "logo": "141b1542b8718a76655413945247f351d61bc751"
   }
  ]
 }
