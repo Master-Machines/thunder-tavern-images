@@ -1,18 +1,18 @@
 {
  "version": 1,
- "updated": 1795202176,
+ "updated": 1795234758,
  "max": 25,
  "atlas": {
-  "file": "atlas/3.png",
-  "slot": 3,
-  "sha": "e476fcd462a19c8090b2bd8f6972fc53b84b61ea",
+  "file": "atlas/4.png",
+  "slot": 4,
+  "sha": "029415c68692d2d1f4ce485514fe0c19b93076d1",
   "w": 2040,
-  "h": 1632,
+  "h": 1224,
   "columns": 5,
   "cell": 408,
   "pad": 4
  },
- "count": 13,
+ "count": 10,
  "groups": [
   {
    "id": "grp_c1ca8ed0-2a1e-4a78-aecc-5bd704ffadd7",
@@ -51,18 +51,6 @@
    "logo": "fffcfe21bac1bafa5a7d9521cff814b67d0868cf"
   },
   {
-   "id": "grp_8f5ac27c-eafd-446e-8825-1688fe2ef19c",
-   "name": "Emo Night 18+",
-   "cell": 3,
-   "rect": [
-    1228,
-    104,
-    400,
-    200
-   ],
-   "logo": "3577b34e25f332c02f39111e7414e119fc541681"
-  },
-  {
    "id": "grp_d8646ecd-9c0e-4630-9d94-9848758b66e2",
    "name": "Rhapsody Rose Renegades",
    "cell": 5,
@@ -97,18 +85,6 @@
     261
    ],
    "logo": "c61fefdd661543e7c20f13efd1958ba9f72f6819"
-  },
-  {
-   "id": "grp_26627317-f391-47be-bff3-6316a21f9b6b",
-   "name": "Twisted Travelers",
-   "cell": 9,
-   "rect": [
-    1636,
-    412,
-    400,
-    400
-   ],
-   "logo": "a55c09d71620ded8f31de1460f67b72f8929501d"
   },
   {
    "id": "grp_57b0ffe9-0b82-469e-8290-eb3d0cd307dd",
@@ -157,18 +133,6 @@
     400
    ],
    "logo": "b80fe88de9a53667d227af60534ba726a6a7130a"
-  },
-  {
-   "id": "grp_e05e76aa-296d-45dc-8356-bbaf042f2ea5",
-   "name": "Limitless",
-   "cell": 15,
-   "rect": [
-    4,
-    1228,
-    400,
-    400
-   ],
-   "logo": "97db30b6f7021874d85e5cce53e925f2a48ef461"
   }
  ],
  "supporters": [
