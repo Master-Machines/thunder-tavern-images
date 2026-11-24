@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795234758,
+ "updated": 1795482204,
  "max": 25,
  "atlas": {
   "file": "atlas/4.png",
@@ -147,6 +147,18 @@
     400
    ],
    "logo": "9316057fa381ebe1ba9f611e03f3c51dcf5adb0d"
+  },
+  {
+   "id": "grp_ddb1c74f-4cf3-421e-b8e8-805700f8a7d5",
+   "name": "Blackout Nights",
+   "cell": 6,
+   "rect": [
+    412,
+    412,
+    400,
+    400
+   ],
+   "logo": "1527a3bfd4a517fbff5a460052390fbd77177196"
   },
   {
    "id": "grp_0e9d2095-c4e3-4952-9e52-3c14e77d8760",
